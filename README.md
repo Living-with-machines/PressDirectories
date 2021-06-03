@@ -16,23 +16,37 @@ The image below, shown a fragment for the `Greenwich Free Press` taking from the
 ## Description of the dataset
 
 **id**: unique identifier of the record, in the shape of MPD_{YEAR}_{POSITION}, i.e. `MPD_1846_3` is the third newspaper encountered in the 1846 edition
+
 **TITLE**: The title of the newspaper, i.e. `Greenwich Free Press`
+
 **POLITICS**: The political leaning of the newspaper, in this case `Liberal`, other frequent values are `Conservative`, `Neutral` or `Independent`
+
 **CATEGORY**: The general category in which the newspaper appeared, in this case `provincial` as Greenwich wasn't absorbed by London yet in 1857. Other categories are `london`, `welsh`, `scottish`, `irish` and `isles` 
+
 **DISTRICT_PUB**: District of publication `Greenwich`
+
 **COUNTY_PUB**: County of publication `Kent`. The press directories are alphabetically ordered by district
+
 **PRICE**: The prices indicated for this newspaper, if more than one price is mentioned, then these are joined by a `<SEP>` token, for example `1½d<SEP>2½d`. **Warning**: Prices are not processed further and need to converted in order to be comparable.
+
 **ESTABLISHED_DATE**: Date the newspaper was establised, varies in precision, from an exact day to an approximate year. In this case the price date is give Aug 4. 1855. **Warning**: Dates are not normalized or converted to time-stamps, this would require further processing
+
 **PUBLICATION_DAY**: The day of publication, often refers to a day in the week (e.g. `Thursday`), or specified in periodic terms such (`daily` or `weekly`). The `Greenwich Free Press` is published on `Saturday`.
+
 **CIRCULATION**: Places where the newspaper was presumed to circulate, often gives a wider range than of places compared to `DISTICT_PUB`. Places are joined by a `<SEP>` token. In the running example this is: `Greenwich<SEP>Kent`
+
 **TEXT_ORIGINAL**: The full text description for one newspaper. The other items mentioned here (such as price and politics) are extracted from this column. 
+
 **DISTRICT_DESCRIPTION**: A textual description of the district (as captured by `DISTRICT_PUB` and `COUNTY_PUB` ). 
+
 **YEAR**: Year of publication for the edition.
+
 **NEWSPAPER_ID**: This is an unique identifier used to link newspaper over time. 
-WIKIDATA_ID: The wikidata id for the place of publication.
-WIKIDATA_LINKING_RULE: The rule used for linking place of publication to wikidata.
-LATITUDE: latitude for the place of publication.
-LONGITUDE: longitude for the place of publication.
+
+**WIKIDATA_ID**: The wikidata id for the place of publication.
+**WIKIDATA_LINKING_RULE**: The rule used for linking place of publication to wikidata.
+**LATITUDE**: latitude for the place of publication.
+**LONGITUDE**: longitude for the place of publication.
 
 ## Digitization Process
 
