@@ -4,11 +4,23 @@ Data and code for the paper
 
 Kaspar Beelen, Jon Lawrence, Daniel C.S. Wilson, David Beavon, "Addressing bias and representativeness in digital heritage collections", _Digital Scholarship in the Humanities_, (forthcoming)
 
-## Overview
+# Overview
 
-### [Introduction](#introduction)
+- [Introduction](#introduction)
+- [Data](#data)
+    - [Press Directories](#press-directories)   
+- [Code](#code)
 
-## [Introduction]
+## Introduction
+
+## Data
+### Press Directories
+#### Processing
+#### Description
+
+### JISC
+
+## Code
 
 This repository contains a structured conversion of Mitchell's Newspaper Press Directories between 1846 and 1920. The code that transforms original scans to a tabular format is provided here as well and is documented in a series of Jupyter Notebooks that explain the different steps involved. 
 
