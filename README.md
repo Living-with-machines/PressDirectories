@@ -1,6 +1,6 @@
-# Addressing bias and representativeness in digital heritage collections
+# Addressing Bias and Representativeness in Digital Heritage Collections
 
-Data and code for the paper
+Thsi repository contains data and code for the paper:
 
 Kaspar Beelen, Jon Lawrence, Daniel C.S. Wilson, David Beavon, "Addressing bias and representativeness in digital heritage collections", _Digital Scholarship in the Humanities_, (forthcoming)
 
@@ -8,7 +8,9 @@ Kaspar Beelen, Jon Lawrence, Daniel C.S. Wilson, David Beavon, "Addressing bias 
 
 - [Introduction](#introduction)
 - [Data](#data)
-    - [Press Directories](#press-directories)   
+    - [Press Directories](#press-directories)
+        - [Processing](#processing)
+        - [Description](#description)  
 - [Code](#code)
 
 ## Introduction
