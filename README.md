@@ -43,6 +43,8 @@ The image below, shown a fragment for the `Greenwich Free Press` taking from the
 
 **NEWSPAPER_ID**: This is an unique identifier used to link newspaper over time. 
 
+**IN_JISC**: Binary variable, `1` when the newspaper title is included in the JISC collection. For an overview of this collection go here.
+
 **WIKIDATA_ID**: The wikidata id for the place of publication.
 **WIKIDATA_LINKING_RULE**: The rule used for linking place of publication to wikidata.
 **LATITUDE**: latitude for the place of publication.
