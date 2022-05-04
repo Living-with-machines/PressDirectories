@@ -33,7 +33,7 @@ The image below, shown a fragment for the `Greenwich Free Press` taking from the
 
 **PUBLICATION_DAY**: The day of publication, often refers to a day in the week (e.g. `Thursday`), or specified in periodic terms such (`daily` or `weekly`). The `Greenwich Free Press` is published on `Saturday`.
 
-**CIRCULATION**: Places where the newspaper was presumed to circulate, often gives a wider range than of places compared to `DISTICT_PUB`. Places are joined by a `<SEP>` token. In the running example this is: `Greenwich<SEP>Kent`
+**LOCATIONS**: Locations mentioned in the description, includes places where the newspaper was presumed to circulate, often gives a wider range than of places compared to `DISTICT_PUB`. Places are joined by a `<SEP>` token. In the running example this is: `Greenwich<SEP>Kent`
 
 **TEXT_ORIGINAL**: The full text description for one newspaper. The other items mentioned here (such as price and politics) are extracted from this column. 
 
