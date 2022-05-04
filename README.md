@@ -1,5 +1,9 @@
-# Mitchell's Newspaper Press Directories (1846 - 1920)
+# Addressing bias and representativeness in digital heritage collections
 
+Data and code for the paper
+```
+Kaspar Beelen, Jon Lawrence, Daniel C.S. Wilson, David Beavon, "Addressing bias and representativeness in digital heritage collections", Digital Scholarship in the Humanities, (forthcoming)
+```
 
 ## Introduction
 
