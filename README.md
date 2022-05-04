@@ -13,8 +13,9 @@ Kaspar Beelen, Jon Lawrence, Daniel C.S. Wilson, David Beavon, "Addressing bias 
 
 ## Introduction
 
-## Data
-### Press Directories
+## Data
+
+### Press Directories
 #### Processing
 #### Description
 
