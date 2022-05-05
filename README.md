@@ -23,7 +23,7 @@ Kaspar Beelen, Jon Lawrence, Daniel C.S. Wilson, David Beavan, "Addressing bias 
 
 # Data
 
-## Press Directories
+## <ins>Press Directories</ins>
 
 This repository contains a structured conversion of Mitchell's Newspaper Press Directories between 1846 and 1920. The code that transforms original scans to a tabular format is provided here as well and is documented in a series of Jupyter Notebooks that explain the different steps involved. 
 
@@ -73,6 +73,7 @@ Lastly, to improve the quality of the data, we performed a light-touch manual co
 
 **NEWSPAPER_ID**: This is an unique identifier used to link newspaper over time. 
 
+# JISC
 
 ## Datasets
 
