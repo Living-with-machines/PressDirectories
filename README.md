@@ -85,7 +85,7 @@ This spreadsheet provides an overview of all titles in the JISC collection.
 
 This table provides an overview of all titles in the JISC collection with links to the entry in the Newspaper Press Directories. 
 
-**LINKING_METHOD**: indicates how the titles were linked. 'manual' 
+**LINKING_METHOD**: indicates how the titles were linked. 'manual': link established via manual annotation. 'newspaper_id' link established via the newspaper id of 'manual' link.
 
 **BL_SYSTEM_ID**: The System ID associated with the newspaper. 
 
