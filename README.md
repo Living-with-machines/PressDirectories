@@ -25,7 +25,7 @@ Kaspar Beelen, Jon Lawrence, Daniel C.S. Wilson, David Beavan, "Addressing bias 
 
 ## Press Directories
 
-This repository contains a structured conversion of Mitchell's Newspaper Press Directories between 1846 and 1920. The code that transforms original scans to a tabular format is provided here as well and is documented in a series of Jupyter Notebooks that explain the different steps involved. 
+This repository contains a structured conversion of Mitchell's Newspaper Press Directories between 1846 and 1920.  
 
 The press directories appeared almost yearly after 1846 and listed newspapers circulating in the United Kingdom, often giving detailled description of their audiences. 
 
