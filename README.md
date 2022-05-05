@@ -33,6 +33,8 @@ The image below, shown a fragment for the `Greenwich Free Press` taking from the
 
 ![Example of the Greenwich Free Press](img/example.png)
 
+<img src="img/example.png" alt="Example of the Greenwich Free Press" width="200" >
+
 #### Processing
 
 Mitchell’s Press Directories were scanned by the British Library imaging studio in 2019 and further processed and enriched by the Living with Machines project.
