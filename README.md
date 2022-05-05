@@ -107,6 +107,6 @@ This table provides an overview of all titles in the JISC collection with links 
 ### R Notebooks
 
 
-**train_topics_jisc.Rmd**: Code for training a Structural Topic Model on descriptions derived from the press directoriess.
+**[train_topics_jisc.Rmd](https://github.com/Living-with-machines/PressDirectories/blob/main/rscripts/train_topics_jisc.Rmd)**: Code for training a Structural Topic Model on descriptions derived from the press directoriess.
 
-**explore_jisc_topics.nb.Rmd**: Code for inspecting the Structural Topic Model and reproducing the figures in the section "Beyond Labels: Topics in Contemporaneous Descriptions"
+**[explore_jisc_topics.nb.Rmd](https://github.com/Living-with-machines/PressDirectories/blob/main/rscripts/explore_jisc_topics.Rmd)**: Code for inspecting the Structural Topic Model and reproducing the figures in the section "Beyond Labels: Topics in Contemporaneous Descriptions"
