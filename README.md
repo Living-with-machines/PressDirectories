@@ -13,7 +13,7 @@
         - [Datasets](#datasets) 
 - [Code](#code)
     - [Python Notebooks](#python-notebooks)
-    - [R Notebook](#r-notebook) 
+    - [R Notebooks](#r-notebooks) 
 
 ## Introduction
 
@@ -105,6 +105,12 @@ This table provides an overview of all titles in the JISC collection with links 
 
 **Appendix_JISC_Links.ipynb**: Code for producing the Linked Title List.
 
-### R Notebook
+### R Notebooks
+
+
+**train_topics_jisc.Rmd**: Code for training a Structural Topic Model on descriptions derived from the press directoriess.
+
+**explore_jisc_topics.nb.Rmd**: Code for inspecting the Structural Topic Model and reproducing the figures in the section "Beyond Labels: Topics in Contemporaneous Descriptions"
+
 
 
