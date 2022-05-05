@@ -11,6 +11,8 @@ Kaspar Beelen, Jon Lawrence, Daniel C.S. Wilson, David Beavan, "Addressing bias 
     - [Press Directories](#press-directories)
         - [Processing](#processing)
         - [Description](#description)  
+    - [JISC]
+        - [Datasets] 
 - [Code](#code)
 
 ## Introduction
@@ -67,12 +69,9 @@ Lastly, to improve the quality of the data, we performed a light-touch manual co
 
 **NEWSPAPER_ID**: This is an unique identifier used to link newspaper over time. 
 
-**WIKIDATA_ID**: The wikidata id for the place of publication.
-**WIKIDATA_LINKING_RULE**: The rule used for linking place of publication to wikidata.
-**LATITUDE**: latitude for the place of publication.
-**LONGITUDE**: longitude for the place of publication.
+## JISC
 
-### JISC
+### Datasets
 
 ## Code
 
