@@ -11,8 +11,8 @@ Kaspar Beelen, Jon Lawrence, Daniel C.S. Wilson, David Beavan, "Addressing bias 
     - [Press Directories](#press-directories)
         - [Processing](#processing)
         - [Description](#description)  
-    - [JISC]
-        - [Datasets] 
+    - [JISC](#jisc)
+        - [Datasets](#datasets) 
 - [Code](#code)
 
 ## Introduction
