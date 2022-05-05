@@ -31,9 +31,7 @@ The press directories appeared almost yearly after 1846 and listed newspapers ci
 
 The image below, shown a fragment for the `Greenwich Free Press` taking from the 1857 Press Directory, which we use as an example of the data description.
 
-![Example of the Greenwich Free Press](img/example.png)
-
-<img src="img/example.png" alt="Example of the Greenwich Free Press" width="200" >
+<img src="img/example.png" alt="Example of the Greenwich Free Press" width="400" >
 
 #### Processing
 
