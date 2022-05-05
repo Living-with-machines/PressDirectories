@@ -1,0 +1,826 @@
+,LINKING_METHOD,BL_SYSTEM_ID,NPD_ID,JISC_TITLE,MITCHELL_TITEL
+0,manual,13943810,MPD_1873_467,Cheshire Observer,CHESHIRE OBSERVER .
+1,newspaper_id,13943810,CID_000720,Cheshire Observer,CHESHIRE OBSERVER .
+2,newspaper_id,13943810,CID_000720,Cheshire Observer,CHESHIRE OBSERVER .
+3,newspaper_id,13943810,CID_000720,Cheshire Observer,CHESHIRE OBSERVER .
+4,newspaper_id,13943810,CID_000720,Cheshire Observer,UHESHIRE OBSERVER .
+5,newspaper_id,13943810,CID_000720,Cheshire Observer,CHESHIRE OBSERVER .
+6,newspaper_id,13943810,CID_000720,Cheshire Observer,CHESHIRE OBSERVER .
+7,newspaper_id,13943810,CID_000720,Cheshire Observer,CHESHIRE OBSERVER .
+8,newspaper_id,13943810,CID_000720,Cheshire Observer,CHESHIRE OBSERVER .
+9,newspaper_id,13943810,CID_000720,Cheshire Observer,CHESHIRE OBSERVER .
+10,newspaper_id,13943810,CID_000720,Cheshire Observer,CHESHIRE OBSERVER .
+11,newspaper_id,13943810,CID_000720,Cheshire Observer,CHESHIRE OBSERVER .
+12,manual,13890695,MPD_1873_826,"The Daily Gazette for Middlesbrough, Stockton and District","MIDDLESBROUGH DAILY GAZETTE ,"
+13,newspaper_id,13890695,CID_003843,"The Daily Gazette for Middlesbrough, Stockton and District","MIDDLESBROUGH DAILY GAZETTE ,"
+14,manual,13909378,MPD_1873_1252,"Dundee Courier & Argus and Northern Warder, The",DUNDEE COURIER AND ARGUS .
+15,manual,13909379,MPD_1873_1252,"Dundee Courier & Argus, The",DUNDEE COURIER AND ARGUS .
+16,newspaper_id,13909379,CID_000664,"Dundee Courier & Argus, The",DUNDEE COURIER AND ARGUS .
+17,newspaper_id,13909379,CID_000664,"Dundee Courier & Argus, The",DUNDEE COURIER AND ARGUS .
+18,newspaper_id,13909379,CID_000664,"Dundee Courier & Argus, The",DUNDEE COURIER AND ARGUS .
+19,newspaper_id,13909379,CID_000664,"Dundee Courier & Argus, The",DUNDEE COURIER AND ARGUS .
+20,newspaper_id,13909379,CID_000664,"Dundee Courier & Argus, The",DUNDEE COURIER AND ARGUS .
+21,manual,13905401,MPD_1873_1181,Goleuad,Y GOLEUAD .
+22,newspaper_id,13905401,CID_003175,Goleuad,Y GOLEUAD .
+23,newspaper_id,13905401,CID_003175,Goleuad,Y GOLEUAD .
+24,newspaper_id,13905401,CID_003175,Goleuad,Y GOLEUAD .
+25,manual,13890612,MPD_1873_1172,Western Mail,WESTERN MAIL .
+26,manual,13897353,MPD_1880_513,"Bristol Mercury and Daily Post, the",BRISTOL MERCURY AND DAILY POST .
+27,newspaper_id,13897353,CID_000596,"Bristol Mercury and Daily Post, the","BRISTOL WEEKLY MERCURY ,"
+28,newspaper_id,13897353,CID_000596,"Bristol Mercury and Daily Post, the",BRISTOL MERCURY AND DAILY POST .
+29,newspaper_id,13897353,CID_000596,"Bristol Mercury and Daily Post, the",BRISTOL MERCURY AND DAILY POST .
+30,newspaper_id,13897353,CID_000596,"Bristol Mercury and Daily Post, the",BRISTOL MERCURY AND DAILY POST .
+31,newspaper_id,13897353,CID_000596,"Bristol Mercury and Daily Post, the",BRISTOL MERCURY .
+32,newspaper_id,13897353,CID_000596,"Bristol Mercury and Daily Post, the",BRISTOL MERCURY .
+33,newspaper_id,13897353,CID_000596,"Bristol Mercury and Daily Post, the",BRISTOL MERCURY .
+34,newspaper_id,13897353,CID_000596,"Bristol Mercury and Daily Post, the",BRISTOL MERCURY .
+35,manual,13890956,MPD_1890_2074,Freeman's Journal and Daily Commercial Advertiser,FREEMAN'S JOURNAL .
+36,newspaper_id,13890956,CID_001808,Freeman's Journal and Daily Commercial Advertiser,FREEMAN'S JOURNAL .
+37,newspaper_id,13890956,CID_001808,Freeman's Journal and Daily Commercial Advertiser,FREEMAN'S JOURNAL .
+38,newspaper_id,13890956,CID_001808,Freeman's Journal and Daily Commercial Advertiser,FREEMAN'S JOURNAL .
+39,newspaper_id,13890956,CID_001808,Freeman's Journal and Daily Commercial Advertiser,FREEMAN'S JOURNAL .
+40,manual,13901444,MPD_1890_1717,"Yorkshire Herald, and the York Herald, The","YORKSHIRE HERALD ,"
+41,newspaper_id,13901444,CID_001790,"Yorkshire Herald, and the York Herald, The","YORKSHIRE HERALD ,"
+42,newspaper_id,13901444,CID_001790,"Yorkshire Herald, and the York Herald, The","YORKSHIRE HERALD ,"
+43,newspaper_id,13901444,CID_001790,"Yorkshire Herald, and the York Herald, The","YORKSHIRE HERALD ,"
+44,newspaper_id,13901444,CID_001790,"Yorkshire Herald, and the York Herald, The","YORKSHIRE HERALD ,"
+45,manual,13896866,MPD_1900_587,"Weekly Standard and Express, The",BLACKBURN STANDARD AND EXPRESS .
+46,manual,13909380,MPD_1900_2125,"Courier and Argus, The",DUNDEE COURIER .
+47,manual,13924140,MPD_1900_1504,Hampshire Telegraph and Naval Chronicle,HAMPSHIRE TELEGRAPH & NAVAL CHRONICLE .
+48,manual,13906329,MPD_1863_873,Baner ac Amserau Cymru,BANER AC AMSERAU CYMRU . BANNER AND IIMES OF WALES . )
+49,newspaper_id,13906329,CID_001850,Baner ac Amserau Cymru,BANER AC AMSERAU CYMRU . BANNER AND TIMES OF WALES . ) CYMRO .
+50,newspaper_id,13906329,CID_001850,Baner ac Amserau Cymru,BANER AC AMSERAU CYMRU .
+51,newspaper_id,13906329,CID_001850,Baner ac Amserau Cymru,BANER AC AMSERAU CYMRU .
+52,newspaper_id,13906329,CID_001850,Baner ac Amserau Cymru,BANER AC AMSERAU CYMRU .
+53,newspaper_id,13906329,CID_001850,Baner ac Amserau Cymru,BANER AC AMSERAU CYMRU ( LiBERAL and
+54,newspaper_id,13906329,CID_001850,Baner ac Amserau Cymru,BANER AC AMSERAU CYMRU (
+55,newspaper_id,13906329,CID_001850,Baner ac Amserau Cymru,BANER AC AMSERAU CYMRU ( Banner and Wales ) .
+56,manual,13890480,MPD_1863_365,"Cheshire Observer and Chester, Birkenhead and North Wales Times",CHESHIRE OBSERVER .
+57,newspaper_id,13890480,CID_002098,"Cheshire Observer and Chester, Birkenhead and North Wales Times",CHESHIRE OBSERVER .
+58,newspaper_id,13890480,CID_002098,"Cheshire Observer and Chester, Birkenhead and North Wales Times",CHESHIRE OBSERVER .
+59,newspaper_id,13890480,CID_002098,"Cheshire Observer and Chester, Birkenhead and North Wales Times",CHESHIRE OBSERVER .
+60,manual,13909377,MPD_1863_933,"Dundee Courier & Argus, The",DUNDEE COURIER AND DAILY ARGLUS .
+61,newspaper_id,13909377,CID_000664,"Dundee Courier & Argus, The",DUNDEECOURIER AND ARGUS .
+62,newspaper_id,13909377,CID_000664,"Dundee Courier & Argus, The",DUNDEECOURIER AND ARGUS .
+63,newspaper_id,13909377,CID_000664,"Dundee Courier & Argus, The",DUNDEE COURIER AND ARGUS .
+64,newspaper_id,13909377,CID_000664,"Dundee Courier & Argus, The",DUNDEE COURIER AND ARGUS .
+65,manual,13898320,MPD_1863_550,Leeds Mercury,LEEDS MERCURY .
+66,newspaper_id,13898320,CID_001291,Leeds Mercury,LEEDS MERCURY .
+67,newspaper_id,13898320,CID_001291,Leeds Mercury,LEEDS MERCURY .
+68,newspaper_id,13898320,CID_001291,Leeds Mercury,LEEDS MERCURY .
+69,newspaper_id,13898320,CID_001291,Leeds Mercury,LEEDS MERCURY .
+70,newspaper_id,13898320,CID_001291,Leeds Mercury,LEEDS MERCURY .
+71,newspaper_id,13898320,CID_001291,Leeds Mercury,LEEDS MERCURY .
+72,newspaper_id,13898320,CID_001291,Leeds Mercury,"LEEDS WEEKLY MEE - ICURY ,"
+73,newspaper_id,13898320,CID_001291,Leeds Mercury,"LEEDS WEEKLY MERCURY ,"
+74,newspaper_id,13898320,CID_001291,Leeds Mercury,"WEEKLY MERCURY ,"
+75,newspaper_id,13898320,CID_001291,Leeds Mercury,THE WEEKLY SUPPLEMENT .
+76,manual,13924045,MPD_1898_1426,Jackson's Oxford Journal,OXFORD JOURNAL .
+77,newspaper_id,13924045,CID_000056,Jackson's Oxford Journal,JACKSON'S OXFORD JOURNAL .
+78,manual,13924044,MPD_1898_1426,Oxford Journal and County News,OXFORD JOURNAL .
+79,manual,13897937,MPD_1851_226,"Huddersfield Chronicle and West Yorkshire Advertiser, The",HUDDERSFIELD CHRONICLE .
+80,newspaper_id,13897937,CID_000177,"Huddersfield Chronicle and West Yorkshire Advertiser, The",HUDDERSFIELD CHRONICLE .
+81,newspaper_id,13897937,CID_000177,"Huddersfield Chronicle and West Yorkshire Advertiser, The",HUDDERSFIELD CHRONICLE .
+82,newspaper_id,13897937,CID_000177,"Huddersfield Chronicle and West Yorkshire Advertiser, The",HUDDERSFIELD CHRONICLE .
+83,newspaper_id,13897937,CID_000177,"Huddersfield Chronicle and West Yorkshire Advertiser, The",HUDDERSFIEL DCHRONICLE .
+84,newspaper_id,13897937,CID_000177,"Huddersfield Chronicle and West Yorkshire Advertiser, The",HUDDERSFIELD CHRONICLE .
+85,newspaper_id,13897937,CID_000177,"Huddersfield Chronicle and West Yorkshire Advertiser, The", HUDDERSFIELDCHRONICLE .
+86,newspaper_id,13897937,CID_000177,"Huddersfield Chronicle and West Yorkshire Advertiser, The",HUDDERSFIELD CHRONICLE .
+87,newspaper_id,13897937,CID_000177,"Huddersfield Chronicle and West Yorkshire Advertiser, The",HUDDERSFIELD DAILY CHRONICLE .
+88,newspaper_id,13897937,CID_000177,"Huddersfield Chronicle and West Yorkshire Advertiser, The",HUDDERSFIELD DAILY CHRONICLE .
+89,newspaper_id,13897937,CID_000177,"Huddersfield Chronicle and West Yorkshire Advertiser, The",HUDDERSFIELD DAILY CHRONICLE .
+90,newspaper_id,13897937,CID_000177,"Huddersfield Chronicle and West Yorkshire Advertiser, The",HUDDERSFIELD DAILY CHRONICLE .
+91,newspaper_id,13897937,CID_000177,"Huddersfield Chronicle and West Yorkshire Advertiser, The",HUDDERSFIELD DAILY CHRONICLE .
+92,newspaper_id,13897937,CID_000177,"Huddersfield Chronicle and West Yorkshire Advertiser, The",HUDDERSFIELD DAILY CHRONICLE .
+93,newspaper_id,13897937,CID_000177,"Huddersfield Chronicle and West Yorkshire Advertiser, The",HUDDERSFIELD DAILY CHRONICLE .
+94,newspaper_id,13897937,CID_000177,"Huddersfield Chronicle and West Yorkshire Advertiser, The",HUDDERSFIELD DAILY CHRONICLE .
+95,newspaper_id,13897937,CID_000177,"Huddersfield Chronicle and West Yorkshire Advertiser, The",HUDDERSFIELD DAILY CHRONICLE .
+96,newspaper_id,13897937,CID_000177,"Huddersfield Chronicle and West Yorkshire Advertiser, The",HUDDERSFIELD DAILY CHRONICLE .
+97,newspaper_id,13897937,CID_000177,"Huddersfield Chronicle and West Yorkshire Advertiser, The",HUDDERSFIELD DAILY CHRONICLE .
+98,newspaper_id,13897937,CID_000177,"Huddersfield Chronicle and West Yorkshire Advertiser, The",HUDDERSFIELD DAILY CHRONICLE .
+99,manual,13900122,MPD_1851_281,Nottinghamshire Guardian and Midland Counties Advertiser,NOTTINGHAMSHIRE GUARDIAN .
+100,newspaper_id,13900122,CID_000122,Nottinghamshire Guardian and Midland Counties Advertiser,NOTTINGHAMSHIRE GUARDIAN .
+101,newspaper_id,13900122,CID_000122,Nottinghamshire Guardian and Midland Counties Advertiser,NOTTINGHAMSHIRE GUARDIAN .
+102,newspaper_id,13900122,CID_000122,Nottinghamshire Guardian and Midland Counties Advertiser,NOTTINGHAMSHIRE GUARDIAN .
+103,newspaper_id,13900122,CID_000122,Nottinghamshire Guardian and Midland Counties Advertiser,NOTTINGHAMSHIRE GUARDIAN .
+104,newspaper_id,13900122,CID_000122,Nottinghamshire Guardian and Midland Counties Advertiser,NOTTINGHAMSHIRE GUARDIAN .
+105,newspaper_id,13900122,CID_000122,Nottinghamshire Guardian and Midland Counties Advertiser,NOTTINGHAMSHIRE GUARDIAN .
+106,newspaper_id,13900122,CID_000122,Nottinghamshire Guardian and Midland Counties Advertiser,NOTTINGHAMSHIRE GUARDIAN .
+107,newspaper_id,13900122,CID_000122,Nottinghamshire Guardian and Midland Counties Advertiser,NOTTINGHAMSHIRE GUARDIAN .
+108,newspaper_id,13900122,CID_000122,Nottinghamshire Guardian and Midland Counties Advertiser,NOTTINGHAMSHIRE GUARDIAN .
+109,newspaper_id,13900122,CID_000122,Nottinghamshire Guardian and Midland Counties Advertiser,NOTTINGHAMSHIRE GUARDIAN .
+110,newspaper_id,13900122,CID_000122,Nottinghamshire Guardian and Midland Counties Advertiser,NOTTINGHAMSHIRE GUARDIAN .
+111,newspaper_id,13900122,CID_000122,Nottinghamshire Guardian and Midland Counties Advertiser,NOTTINGHAMSHIRE GUARDIAN .
+112,newspaper_id,13900122,CID_000122,Nottinghamshire Guardian and Midland Counties Advertiser,NOTTINGHAMSHIRE GUARDIAN .
+113,newspaper_id,13900122,CID_000122,Nottinghamshire Guardian and Midland Counties Advertiser,NOTTINGHAMSHIRE GUARDIAN .
+114,newspaper_id,13900122,CID_000122,Nottinghamshire Guardian and Midland Counties Advertiser,NOTTINGHAMSHIRE GUARDIAN .
+115,newspaper_id,13900122,CID_000122,Nottinghamshire Guardian and Midland Counties Advertiser,NOTTINGHAMSHIRE GUARDIAN .
+116,newspaper_id,13900122,CID_000122,Nottinghamshire Guardian and Midland Counties Advertiser,NOTTINGHAMSHIRE GUARDIAN .
+117,newspaper_id,13900122,CID_000122,Nottinghamshire Guardian and Midland Counties Advertiser,NOTTINGHAMSHIRE GUARDIAN .
+118,newspaper_id,13900122,CID_000122,Nottinghamshire Guardian and Midland Counties Advertiser,NOTTINGHAMSHIRE GUARDIAN .
+119,manual,13908879,MPD_1851_334,"Royal Cornwall Gazette, etc.",CORNWALL ROYAL GAZETTE .
+120,newspaper_id,13908879,CID_000136,"Royal Cornwall Gazette, etc.",ROYAL CORNWALL GAZETTE .
+121,newspaper_id,13908879,CID_000136,"Royal Cornwall Gazette, etc.",ROYAL CORNWALL GAZETTE .
+122,newspaper_id,13908879,CID_000136,"Royal Cornwall Gazette, etc.",ROYAL CORNWALL GAZETTE .
+123,newspaper_id,13908879,CID_000136,"Royal Cornwall Gazette, etc.",ROYAL CORNWALL GAZETTE .
+124,newspaper_id,13908879,CID_000136,"Royal Cornwall Gazette, etc.",ROYAL CORNWALL GAZETTE .
+125,newspaper_id,13908879,CID_000136,"Royal Cornwall Gazette, etc.",ROYAL CORNWALL GAZETTE .
+126,newspaper_id,13908879,CID_000136,"Royal Cornwall Gazette, etc.",ROYAL CORNWALL GAZETTE .
+127,newspaper_id,13908879,CID_000136,"Royal Cornwall Gazette, etc.",ROYAL CORNWALL GAZETTE .
+128,newspaper_id,13908879,CID_000136,"Royal Cornwall Gazette, etc.",ROYAL CORNWALL GAZETTE .
+129,newspaper_id,13908879,CID_000136,"Royal Cornwall Gazette, etc.",ROYAL CORNWALL GAZETTE .
+130,newspaper_id,13908879,CID_000136,"Royal Cornwall Gazette, etc.",ROYAL CORNWALL GAZETTE .
+131,newspaper_id,13908879,CID_000136,"Royal Cornwall Gazette, etc.",ROYAL CORNWALL GAZETTE .
+132,newspaper_id,13908879,CID_000136,"Royal Cornwall Gazette, etc.",ROYAL CORNWALL GAZETTE .
+133,newspaper_id,13908879,CID_000136,"Royal Cornwall Gazette, etc.",ROYAL CORNWALL GAZETTE .
+134,newspaper_id,13908879,CID_000136,"Royal Cornwall Gazette, etc.",ROYAL CORNWALL GAZETTE . 
+135,newspaper_id,13908879,CID_000136,"Royal Cornwall Gazette, etc.",ROYAL CORNWALL GAZETTE .
+136,newspaper_id,13908879,CID_000136,"Royal Cornwall Gazette, etc.",ROVYAL CORNWALL GAZETTE .
+137,newspaper_id,13908879,CID_000136,"Royal Cornwall Gazette, etc.",ROYAL CORNWALL GAZETTE .
+138,newspaper_id,13908879,CID_000136,"Royal Cornwall Gazette, etc.",ROYAL CORNWALL GAZETTE .
+139,manual,13890612,MPD_1875_1240,Western Mail,WESTERN MAIL
+140,newspaper_id,13890612,CID_003882,Western Mail,WESTERN MAIL .
+141,newspaper_id,13890612,CID_003882,Western Mail,WESTERN MAIL .
+142,manual,13893742,MPD_1865_574,Leicester Chronicle and the Leicestershire Mercury,LEICESTER CHRONICLE & LEICESTERSHIRE MERCURY .
+143,newspaper_id,13893742,CID_000473,Leicester Chronicle and the Leicestershire Mercury,EICESTER CHRONICLE & LEICESTERSHIRE NMERCURY .
+144,newspaper_id,13893742,CID_000473,Leicester Chronicle and the Leicestershire Mercury,LEICESTER CHRONICLE & LEICESTERSHIRE I MERCURY .
+145,newspaper_id,13893742,CID_000473,Leicester Chronicle and the Leicestershire Mercury,LEICESTER CHRONICLE & LEICESTERSHIRE MERCURY .
+146,newspaper_id,13893742,CID_000473,Leicester Chronicle and the Leicestershire Mercury,LEICESTER CHRONICLE & LEICESTERSHIRE MERCURY .
+147,newspaper_id,13893742,CID_000473,Leicester Chronicle and the Leicestershire Mercury,LEICESTER CHRONICLE AND LEICESTERSHIRE ( MERCURY .
+148,newspaper_id,13893742,CID_000473,Leicester Chronicle and the Leicestershire Mercury,LEICESTER CHRONICLE AND LEICESTERSHIRE TNMERCURY .
+149,newspaper_id,13893742,CID_000473,Leicester Chronicle and the Leicestershire Mercury,LEICESTER CERONICLE AND LEICESTERSHIRE MERCURY .
+150,newspaper_id,13893742,CID_000473,Leicester Chronicle and the Leicestershire Mercury,LEICESTER CHRONICLE AND LEICESTERSHIRE IMERCURY .
+151,newspaper_id,13893742,CID_000473,Leicester Chronicle and the Leicestershire Mercury,LEICESTER CHRONICLE AND LEICESTERSHIRE I MERCURY .
+152,newspaper_id,13893742,CID_000473,Leicester Chronicle and the Leicestershire Mercury,LEICESTER CHRONICLE AND LEICESTERSHIRE IMERCURY .
+153,newspaper_id,13893742,CID_000473,Leicester Chronicle and the Leicestershire Mercury,LEICESTER CHRONICLE AND LEICESTERSHIRE — I MERCURY .
+154,newspaper_id,13893742,CID_000473,Leicester Chronicle and the Leicestershire Mercury,LEICESTER CHRONICLE AND LEICESTERSHIRE I MERCURY .
+155,newspaper_id,13893742,CID_000473,Leicester Chronicle and the Leicestershire Mercury,LEICESTER CHRONICLE AND LEICESTERSHIRE I MERCURY .
+156,newspaper_id,13893742,CID_000473,Leicester Chronicle and the Leicestershire Mercury,LEICESTER CHRONICLE AND LEICESTERSHIRE I MERCURY .
+157,manual,13901375,MPD_1865_956,Wrexam Advertiser,WREXHAM WEEKLY ADVERTISER .
+158,newspaper_id,13901375,CID_000897,Wrexam Advertiser,WREXHAM ADVERTISER .
+159,newspaper_id,13901375,CID_000897,Wrexam Advertiser,WREXHAM ADVERTISER .
+160,newspaper_id,13901375,CID_000897,Wrexam Advertiser,WREXHAM ADVERTISER .
+161,newspaper_id,13901375,CID_000897,Wrexam Advertiser,WREXHAM ADVERTISER .
+162,newspaper_id,13901375,CID_000897,Wrexam Advertiser,WREXHAM ADVERTISER .
+163,newspaper_id,13901375,CID_000897,Wrexam Advertiser,WREXHAM ADVERTISER AND NORTH WALES WEEKLY NEWS .
+164,newspaper_id,13901375,CID_000897,Wrexam Advertiser,WREXHAM ADVERTISER AND NORTH WALES WEEKLY NEWS .
+165,newspaper_id,13901375,CID_000897,Wrexam Advertiser,WREXHAM ADVERTISER AND NORTH WALES . WEEKLY NEWS .
+166,newspaper_id,13901375,CID_000897,Wrexam Advertiser,WREXHAM ADVERTISER AND NORTH wAL WEEKLY NEWS .
+167,newspaper_id,13901375,CID_000897,Wrexam Advertiser,WREXHAM ADVERTISER AND NORTH WALES WEEKLY NEWS .
+168,newspaper_id,13901375,CID_000897,Wrexam Advertiser,WREXHAM ADVERTISER AND NORTH WALES NEWS .
+169,newspaper_id,13901375,CID_000897,Wrexam Advertiser,WREXHAM ADVERTISER AND NORTH WALES NEWS .
+170,newspaper_id,13901375,CID_000897,Wrexam Advertiser,WREXHAM ADVERTISER AND NORTH WALES NEWS .
+171,manual,13896865,MPD_1888_590,"Blackburn Standard and Weekly Express, The",BLACKBURN STANDARD .
+172,manual,13896865,MPD_1888_589,"Blackburn Standard and Weekly Express, The",BLACKBURN WEEKLY EXPRESS .
+173,newspaper_id,13896865,CID_003994,"Blackburn Standard and Weekly Express, The",BLACKBURN STANDARD AND WEEKLY EXPRESS .
+174,newspaper_id,13896865,CID_003994,"Blackburn Standard and Weekly Express, The",BLACKBURN STANDARD AND WEEKLY EXPRESS .
+175,manual,13893336,MPD_1888_695,Bury and Norwich Post,BURY & NORWICH POST & SUFFOLK STANDARD HE
+176,newspaper_id,13893336,CID_001532,Bury and Norwich Post,BURY & NORWICH POST & SUFFOLK STANDARD .
+177,newspaper_id,13893336,CID_001532,Bury and Norwich Post,BURY & NORWICH POST & SUFFOLK STANDARD .
+178,newspaper_id,13893336,CID_001532,Bury and Norwich Post,BURY & NORWICH POST & SUFFOLK STANDARD .
+179,newspaper_id,13893336,CID_001532,Bury and Norwich Post,BURY & NORWICH POST & SUFFOLK STANDARD .
+180,newspaper_id,13893336,CID_001532,Bury and Norwich Post,BURY & NORWICH POST & SUFFOLK STANDARD .
+181,manual,13890696,MPD_1888_1254,"North-Eastern Daily Gazette (Middlesbrough), The",NORTH-EASTERN DAILY GAZETTE .
+182,newspaper_id,13890696,CID_001556,"North-Eastern Daily Gazette (Middlesbrough), The",NORTH-EASTERN DAILY GAZETTE .
+183,newspaper_id,13890696,CID_001556,"North-Eastern Daily Gazette (Middlesbrough), The", NORTH-EASTERN DAILY GAZETTE .
+184,newspaper_id,13890696,CID_001556,"North-Eastern Daily Gazette (Middlesbrough), The", NORTH-EASTERN DAILY Gazette .
+185,newspaper_id,13890696,CID_001556,"North-Eastern Daily Gazette (Middlesbrough), The",NORTH-EASTERN DAILY GAZETTE .
+186,newspaper_id,13890696,CID_001556,"North-Eastern Daily Gazette (Middlesbrough), The",NORTH-EASTERN DAILY GAZETTE .
+187,manual,13909379,MPD_1888_1909,"Dundee Courier & Argus, The",DUNDEE COURIER
+188,newspaper_id,13909379,CID_001599,"Dundee Courier & Argus, The",DUNDEE COURIER
+189,newspaper_id,13909379,CID_001599,"Dundee Courier & Argus, The",DUNDEE COURIER
+190,newspaper_id,13909379,CID_001599,"Dundee Courier & Argus, The",DUNDEE COURIER
+191,newspaper_id,13909379,CID_001599,"Dundee Courier & Argus, The",DUNDEE COURIER
+192,manual,13890956,MPD_1888_2108,Freeman's Journal and Daily Commercial Advertiser,FREEMAN'S JOURNAL .
+193,manual,13905399,MPD_1888_1805,"Genedl Gymraeg, Y",YOOOGENEDL GYMREIG .
+194,newspaper_id,13905399,CID_004006,"Genedl Gymraeg, Y",Y GENEDL GYMREIG .
+195,newspaper_id,13905399,CID_004006,"Genedl Gymraeg, Y",Y GENEDL GYMREIG .
+196,manual,13906716,MPD_1888_896,Trewman's Exeter Flying Post,EXETER FLYING POST .
+197,newspaper_id,13906716,CID_003996,Trewman's Exeter Flying Post,EXETER FLYING POST .
+198,newspaper_id,13906716,CID_003996,Trewman's Exeter Flying Post,EXETER FLYING POST ( TREWMAN ' ) .
+199,manual,13896866,MPD_1893_576,"Weekly Standard and Express, The",BLACKBURN STANDARD AND WEEKLY EXPRESS .
+200,manual,13891101,MPD_1893_770,"Essex County Standard West Suffolk Gazette, and Eastern Counties Advertiser, The","ESSEX COUNTY STANDARD , WEST SUFFOLK OGAZETTE , AND EASTERN COUNTIES ADVER - TISER ."
+201,newspaper_id,13891101,CID_000022,"Essex County Standard West Suffolk Gazette, and Eastern Counties Advertiser, The","ESSEX COUNTY STANDARD , WEST SUFFOLK | GAZETTE , AND EASTERN COUNTIES ADVER - TISER ."
+202,newspaper_id,13891101,CID_000022,"Essex County Standard West Suffolk Gazette, and Eastern Counties Advertiser, The","ESSEX COUNTY STANDARD , WEST SUFFOLK — GAZETTE , AND EASTERN COUNTIES ADVER - TISER ."
+203,newspaper_id,13891101,CID_000022,"Essex County Standard West Suffolk Gazette, and Eastern Counties Advertiser, The","ESSEX COUNTY STANDARD , WEST SUFFOLK | GAZETTE , AND EASTERN COUNTIES ADVER - TISER ."
+204,manual,13898320,MPD_1893_1133,Leeds Mercury,LEEDS MERCURY .
+205,newspaper_id,13898320,CID_002016,Leeds Mercury,LEEDS MERCURY .
+206,newspaper_id,13898320,CID_002016,Leeds Mercury,LEEDS MERCURY .
+207,newspaper_id,13898320,CID_002016,Leeds Mercury,LEEDS MERCURY .
+208,manual,13890479,MPD_1856_230,Cheshire Observer and General Advertiser: for Cheshire and North Wales,CHESHIRE OBSERVER .
+209,newspaper_id,13890479,CID_002098,Cheshire Observer and General Advertiser: for Cheshire and North Wales,CHESHIRE OBSERVER .
+210,newspaper_id,13890479,CID_002098,Cheshire Observer and General Advertiser: for Cheshire and North Wales,CHESHIRE OBSERVER .
+211,newspaper_id,13890479,CID_002098,Cheshire Observer and General Advertiser: for Cheshire and North Wales,CHESHIRE OBSERVER .
+212,manual,13901374,MPD_1856_553,"Wrexham and Denbigh Weekly Advertiser, and Cheshire, Shropshire, Denbighshire, Flintshire, and North Wales Chronicle",WREXHAM AND DENBIGH WEEKLY ADVERTISER .
+213,manual,13901443,MPD_1856_530,"York Herald, The","YORK HERALD ,"
+214,newspaper_id,13901443,CID_000663,"York Herald, The",YORK HERALD .
+215,newspaper_id,13901443,CID_000663,"York Herald, The",YORK HERALD . 
+216,newspaper_id,13901443,CID_000663,"York Herald, The",YORK HERALD . 
+217,newspaper_id,13901443,CID_000663,"York Herald, The",YORK HERALD . 
+218,newspaper_id,13901443,CID_000663,"York Herald, The",YORK HERALD . 
+219,newspaper_id,13901443,CID_000663,"York Herald, The",YORK HERALD . 
+220,newspaper_id,13901443,CID_000663,"York Herald, The",YORK HERALD . 
+221,newspaper_id,13901443,CID_000663,"York Herald, The",YORK HERALD . 
+222,newspaper_id,13901443,CID_000663,"York Herald, The",YORK HERALD . 
+223,newspaper_id,13901443,CID_000663,"York Herald, The",YORK HERALD . 
+224,newspaper_id,13901443,CID_000663,"York Herald, The",YORK HERALD . 
+225,newspaper_id,13901443,CID_000663,"York Herald, The",YORK HERALD . 
+226,manual,13909858,MPD_1860_775,"Caledonian Mercury and Daily Express, The",CALEDONIAN MERCURY .
+227,manual,13909859,MPD_1860_775,"Caledonian Mercury, The",CALEDONIAN MERCURY .
+228,newspaper_id,13909859,CID_001822,"Caledonian Mercury, The",CALEDONIAN MERCURY .
+229,newspaper_id,13909859,CID_001822,"Caledonian Mercury, The",CALEDONIAN MERCURY .
+230,manual,13895054,MPD_1860_612,"Hampshire Advertiser, etc., The",HAMFSHIRE ADVERTISER .
+231,newspaper_id,13895054,CID_000062,"Hampshire Advertiser, etc., The",HAMPSHIRE ADVERTISER .
+232,newspaper_id,13895054,CID_000062,"Hampshire Advertiser, etc., The",HAMPSHIRE ADVERTISER .
+233,newspaper_id,13895054,CID_000062,"Hampshire Advertiser, etc., The",HAMPSHIRE ADVERTISER .
+234,newspaper_id,13895054,CID_000062,"Hampshire Advertiser, etc., The",HAMPSHIRE ADVERTISER .
+235,newspaper_id,13895054,CID_000062,"Hampshire Advertiser, etc., The",HAMPSHIRE ADVERTISER .
+236,newspaper_id,13895054,CID_000062,"Hampshire Advertiser, etc., The",HAMPFPSHIRE ADVERTISER .
+237,newspaper_id,13895054,CID_000062,"Hampshire Advertiser, etc., The",HAMPSHIRE ADVERTISER .
+238,newspaper_id,13895054,CID_000062,"Hampshire Advertiser, etc., The",HAMPSHIRE ADVERTISER .
+239,newspaper_id,13895054,CID_000062,"Hampshire Advertiser, etc., The",HAMPSHIRE ADVERTISER .
+240,newspaper_id,13895054,CID_000062,"Hampshire Advertiser, etc., The",HAMPSHIRE ADVERTISER .
+241,newspaper_id,13895054,CID_000062,"Hampshire Advertiser, etc., The",HAMPSHIRE ADVERTISER .
+242,newspaper_id,13895054,CID_000062,"Hampshire Advertiser, etc., The",HAMPSHIRE ADVERTISER .
+243,newspaper_id,13895054,CID_000062,"Hampshire Advertiser, etc., The",HAMPSHIRE ADVERTISER .
+244,newspaper_id,13895054,CID_000062,"Hampshire Advertiser, etc., The",HAMPSHIRE ADVERTISER .
+245,newspaper_id,13895054,CID_000062,"Hampshire Advertiser, etc., The",HAMPSHIRE ADVERTISER .
+246,newspaper_id,13895054,CID_000062,"Hampshire Advertiser, etc., The",HAMPSHIRE ADVERTISER .
+247,manual,13921360,MPD_1846_379,"Aberdeen Journal and general advertiser for the north of Scotland, The",ABERDEEN JOURNAL AND GENERAL ADVER - TISER FOR THE NORTH OF SCOTLAND .
+248,newspaper_id,13921360,CID_000075,"Aberdeen Journal and general advertiser for the north of Scotland, The",ABERDEEN JOURNAL AND GENERAL ADVER - TISER FOR THE NORTH OF SCOTLAND .
+249,newspaper_id,13921360,CID_000075,"Aberdeen Journal and general advertiser for the north of Scotland, The",ABERDEEN JOURNAL AND GENERAL ADVER - TISER FOR THE NORTH OF SCOTLAND .
+250,newspaper_id,13921360,CID_000075,"Aberdeen Journal and general advertiser for the north of Scotland, The",ABERDEEN JOURNAL AND GENERAL ADVER - TISER FOR THE NORTH OF SCOTLAND .
+251,newspaper_id,13921360,CID_000075,"Aberdeen Journal and general advertiser for the north of Scotland, The",ABERDEEN JOURNAL AND GENERAL ADVER - TISER FOR THE NORTH OF SCOTLAND .
+252,newspaper_id,13921360,CID_000075,"Aberdeen Journal and general advertiser for the north of Scotland, The",ABERDEEN JOURNAL AND GENERAL AD - — — VWERTISER FOR THE NORTH OF SCOTLAND .
+253,newspaper_id,13921360,CID_000075,"Aberdeen Journal and general advertiser for the north of Scotland, The",ABERDEEN JOURNAL AND GENTRAL AD - — — VERTISER FOR THE NORTH OF SCOTLAND .
+254,newspaper_id,13921360,CID_000075,"Aberdeen Journal and general advertiser for the north of Scotland, The",ABERDEEN JOURNAL AND CENTRAL ADVERTISER FOR THE NORTH OF SCOTLAND .
+255,newspaper_id,13921360,CID_000075,"Aberdeen Journal and general advertiser for the north of Scotland, The",ABERDEEN JOURNAL .
+256,newspaper_id,13921360,CID_000075,"Aberdeen Journal and general advertiser for the north of Scotland, The",ABERDEEN JOURNAL .
+257,newspaper_id,13921360,CID_000075,"Aberdeen Journal and general advertiser for the north of Scotland, The",ABERDEEN JOURNAL .
+258,newspaper_id,13921360,CID_000075,"Aberdeen Journal and general advertiser for the north of Scotland, The",ABERDEEN JOURNAL .
+259,manual,13918648,MPD_1846_135,"Bath Chronicle, The",BATH CHRONICLE .
+260,newspaper_id,13918648,CID_001818,"Bath Chronicle, The",BATH CHRONICLE .
+261,newspaper_id,13918648,CID_001818,"Bath Chronicle, The",BATH CHRONICLE .
+262,newspaper_id,13918648,CID_001818,"Bath Chronicle, The",BATH CHRONICLE .
+263,newspaper_id,13918648,CID_001818,"Bath Chronicle, The",BATH CHRONICLE .
+264,newspaper_id,13918648,CID_001818,"Bath Chronicle, The",BATH CHRONICLE .
+265,newspaper_id,13918648,CID_001818,"Bath Chronicle, The",BATH CHRONICLE .
+266,newspaper_id,13918648,CID_001818,"Bath Chronicle, The",BATH CHRONICLE .
+267,manual,13943744,MPD_1846_466,Belfast News-Letter,BELFAST NEWS LETTER .
+268,newspaper_id,13943744,CID_000097,Belfast News-Letter,BELFAST NEWS LETTER .
+269,newspaper_id,13943744,CID_000097,Belfast News-Letter,BELFAST NEWS LETTER .
+270,newspaper_id,13943744,CID_000097,Belfast News-Letter,BELFAST NEWS LETTER .
+271,newspaper_id,13943744,CID_000097,Belfast News-Letter,BELFAST NEWS LETTER .
+272,newspaper_id,13943744,CID_000097,Belfast News-Letter,BELFAST NEWS LETTER .
+273,newspaper_id,13943744,CID_000097,Belfast News-Letter,BELFAST NEWS LETTER .
+274,newspaper_id,13943744,CID_000097,Belfast News-Letter,BELFAST NEWS LETTER .
+275,newspaper_id,13943744,CID_000097,Belfast News-Letter,BELFAST NEWS LETTER .
+276,newspaper_id,13943744,CID_000097,Belfast News-Letter,BELFAST NEWS-LETTER .
+277,newspaper_id,13943744,CID_000097,Belfast News-Letter,BELFAST NEWS-LETTER .
+278,newspaper_id,13943744,CID_000097,Belfast News-Letter,BELFAST NEWS-LETTER .
+279,newspaper_id,13943744,CID_000097,Belfast News-Letter,BELFAST NEWS-LETTER .
+280,newspaper_id,13943744,CID_000097,Belfast News-Letter,BELFAST NEWS-LETTER .
+281,newspaper_id,13943744,CID_000097,Belfast News-Letter,BELFAST NEWS-LETTER .
+282,newspaper_id,13943744,CID_000097,Belfast News-Letter,BELFAST NEWS-LETTER .
+283,newspaper_id,13943744,CID_000097,Belfast News-Letter,BELFAST NEWS-LETTER .
+284,newspaper_id,13943744,CID_000097,Belfast News-Letter,BELFAST NEWS-LETTER .
+285,newspaper_id,13943744,CID_000097,Belfast News-Letter,BELFAST NEWS-LETTER .
+286,newspaper_id,13943744,CID_000097,Belfast News-Letter,BELFAST NEWS-LETTER .
+287,newspaper_id,13943744,CID_000097,Belfast News-Letter,BELFAST NEWS-LETTER .
+288,newspaper_id,13943744,CID_000097,Belfast News-Letter,BELFAST NEWS-LETTER .
+289,manual,13896863,MPD_1846_149,"Blackburn Standard, The",BLACKBURN STANDARD .
+290,newspaper_id,13896863,CID_000572,"Blackburn Standard, The",BLACKBURN STANDARD .
+291,newspaper_id,13896863,CID_000572,"Blackburn Standard, The",BLACKBURN STANDARD .
+292,newspaper_id,13896863,CID_000572,"Blackburn Standard, The",BLACKBURN STANDARD .
+293,newspaper_id,13896863,CID_000572,"Blackburn Standard, The",BLACKBURN STANDARD .
+294,newspaper_id,13896863,CID_000572,"Blackburn Standard, The",BLACKBURN STANDARD .
+295,newspaper_id,13896863,CID_000572,"Blackburn Standard, The",BLACKBURN STANDARD .
+296,newspaper_id,13896863,CID_000572,"Blackburn Standard, The",BLACKBURN STANDARD .
+297,newspaper_id,13896863,CID_000572,"Blackburn Standard, The",BLACKBURN STANDARD .
+298,newspaper_id,13896863,CID_000572,"Blackburn Standard, The",BLACKBURN STANDARD .
+299,newspaper_id,13896863,CID_000572,"Blackburn Standard, The",BLACKBURN STANDARD .
+300,newspaper_id,13896863,CID_000572,"Blackburn Standard, The",BLACKBURN STANDARD .
+301,manual,13897352,MPD_1846_160,Bristol Mercury,BRISTOL MERCURY .
+302,newspaper_id,13897352,CID_000164,Bristol Mercury,BRISTOL MERCURY .
+303,newspaper_id,13897352,CID_000164,Bristol Mercury,BRISTOL MERCURY .
+304,newspaper_id,13897352,CID_000164,Bristol Mercury,BRISTOL MERCURY .
+305,newspaper_id,13897352,CID_000164,Bristol Mercury,ERISTOL MERCURY .
+306,newspaper_id,13897352,CID_000164,Bristol Mercury,BRISTOL MERCURY .
+307,newspaper_id,13897352,CID_000164,Bristol Mercury,BRISTOL MERCURY .
+308,newspaper_id,13897352,CID_000164,Bristol Mercury,BRISTOL MERCURY .
+309,newspaper_id,13897352,CID_000164,Bristol Mercury,BRISTOL MERCURY .
+310,newspaper_id,13897352,CID_000164,Bristol Mercury,BRISTOL MERCURY .
+311,newspaper_id,13897352,CID_000164,Bristol Mercury,BRISTOL MERCURY .
+312,newspaper_id,13897352,CID_000164,Bristol Mercury,BRISTOL MERCURY .
+313,newspaper_id,13897352,CID_000164,Bristol Mercury,BERISTOL MERCURY .
+314,manual,13893336,MPD_1846_164,Bury and Norwich Post,BURY post .
+315,newspaper_id,13893336,CID_001118,Bury and Norwich Post,BURY AND NORWICH POST .
+316,newspaper_id,13893336,CID_001118,Bury and Norwich Post,BURY AND NORWICH POST AND SUFFOLK HERALD .
+317,newspaper_id,13893336,CID_001118,Bury and Norwich Post,BURY AND NORWICH POST AND SUFFOLK HERALD .
+318,newspaper_id,13893336,CID_001118,Bury and Norwich Post,BURY AND NORWICH POST AND SUFFOLK HERALD .
+319,newspaper_id,13893336,CID_001118,Bury and Norwich Post,BURY AND NORWICH POST AND SUFFOLK ) HERALD .
+320,newspaper_id,13893336,CID_001118,Bury and Norwich Post,BURY AND NORWICH POST AND SUFFOLK HERALD .
+321,newspaper_id,13893336,CID_001118,Bury and Norwich Post,BURY AND NORWICH POST AND SUFFOLK ) HERALD .
+322,newspaper_id,13893336,CID_001118,Bury and Norwich Post,BURY AND NORWICH POST .
+323,newspaper_id,13893336,CID_001118,Bury and Norwich Post,BURY AND NORWICH POST .
+324,newspaper_id,13893336,CID_001118,Bury and Norwich Post,BURY & NORWICH POST .
+325,newspaper_id,13893336,CID_001118,Bury and Norwich Post,BURY & NORWICHPOST .
+326,manual,13909857,MPD_1846_397,Caledonian Mercury,EDINBURGH CALEDONIAN MERCURY .
+327,newspaper_id,13909857,CID_001822,Caledonian Mercury,EDINBURGH CALEDONIAN MERCURY .
+328,newspaper_id,13909857,CID_001822,Caledonian Mercury,EDINBURGH CALEDONIAN MERCURY .
+329,newspaper_id,13909857,CID_001822,Caledonian Mercury,EDINBURGH CALEDONIAN MERCURY .
+330,newspaper_id,13909857,CID_001822,Caledonian Mercury,CALEDONIAN MERCURY .
+331,manual,13906383,MPD_1846_192,Derby Mercury,DERBY MERCURY .
+332,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+333,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+334,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+335,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+336,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+337,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+338,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+339,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+340,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+341,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+342,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+343,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+344,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+345,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+346,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+347,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+348,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+349,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+350,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+351,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+352,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+353,manual,13906383,MPD_1846_192,Derby Mercury,DERBY MERCURY .
+354,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+355,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+356,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+357,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+358,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+359,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+360,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+361,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+362,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+363,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+364,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+365,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+366,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+367,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+368,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+369,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+370,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+371,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+372,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+373,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+374,newspaper_id,13906383,CID_000024,Derby Mercury,DERBY MERCURY .
+375,manual,13943587,MPD_1846_394,Dundee Courier,DUNDEE COURIER .
+376,newspaper_id,13943587,CID_000664,Dundee Courier,DUNDEE COURIER .
+377,newspaper_id,13943587,CID_000664,Dundee Courier,DUNDEE COURIER .
+378,newspaper_id,13943587,CID_000664,Dundee Courier,DUNDEE COURIER .
+379,newspaper_id,13943587,CID_000664,Dundee Courier,DUNDEE COURIER .
+380,newspaper_id,13943587,CID_000664,Dundee Courier,DUNDEE COURIER .
+381,manual,13891100,MPD_1846_188,"Essex Standard, The",ESSEX STANDARD .
+382,newspaper_id,13891100,CID_000022,"Essex Standard, The",ESSEX STANDARD .
+383,newspaper_id,13891100,CID_000022,"Essex Standard, The",ESSEX STANDARD .
+384,newspaper_id,13891100,CID_000022,"Essex Standard, The",ESSEX STANDARD .
+385,newspaper_id,13891100,CID_000022,"Essex Standard, The",ESSEX STANDARD .
+386,newspaper_id,13891100,CID_000022,"Essex Standard, The",ESSEX STANDARD .
+387,newspaper_id,13891100,CID_000022,"Essex Standard, The",ESSEX STANDARD .
+388,newspaper_id,13891100,CID_000022,"Essex Standard, The",ESSEX STANDARD .
+389,newspaper_id,13891100,CID_000022,"Essex Standard, The",ESSEX STANDARD .
+390,newspaper_id,13891100,CID_000022,"Essex Standard, The",ESSEX STANDARD .
+391,newspaper_id,13891100,CID_000022,"Essex Standard, The",ESSEX STANDARD AND EASTERN COUNTIES IADVERTISER .
+392,newspaper_id,13891100,CID_000022,"Essex Standard, The","ESSEX STANDARD , WEST SUFFOLK GAZETTE , AND EASTERN COUNTIES ADVERTISER ."
+393,newspaper_id,13891100,CID_000022,"Essex Standard, The","ESSEX STANDARD , WEST SUFFOLK GAZETTE , AND HE COUNTIES ADVERTISER ."
+394,newspaper_id,13891100,CID_000022,"Essex Standard, The","ESSEX STANDARD , WEST SUFFOLK GAZETTE , AND I COUNTIES ADVERTISER ."
+395,newspaper_id,13891100,CID_000022,"Essex Standard, The","ESSEX STANDARD , WEST SUFFOLK GAZETTE , AND I EASTERN COUNTIES ADVERTISER ."
+396,newspaper_id,13891100,CID_000022,"Essex Standard, The","ESSEX STANDARD , WEST SUFFOLK GAZETTE , AND | EASTERN COUNTIES ADVERTISER ."
+397,newspaper_id,13891100,CID_000022,"Essex Standard, The","ESSEX STANDARD , WEST SUFFOLK GAZETTE , AND — EASTERN COUNTIES ADVERTISER ,"
+398,newspaper_id,13891100,CID_000022,"Essex Standard, The","ESSEX STANDARD , WEST SUFFOLK GAZETTE , AND I N COUNTIES ADVERTISER ."
+399,manual,13890956,MPD_1846_494,Freeman's Journal and Daily Commercial Advertiser,DUBLIN FREEMAN'S JOURNAL .
+400,newspaper_id,13890956,CID_001127,Freeman's Journal and Daily Commercial Advertiser,DUBLIN FREEMAN'S JOURNAL .
+401,newspaper_id,13890956,CID_001127,Freeman's Journal and Daily Commercial Advertiser,DUBLIN FREEMAN'S JOURNAL .
+402,newspaper_id,13890956,CID_001127,Freeman's Journal and Daily Commercial Advertiser,DUBLIN FREEMAN'S JOURNAL .
+403,newspaper_id,13890956,CID_001127,Freeman's Journal and Daily Commercial Advertiser,DUBLIN FREEMAN'S JOURNALl .
+404,newspaper_id,13890956,CID_001127,Freeman's Journal and Daily Commercial Advertiser,DUBLIN FREEMAN'S JOURNAL .
+405,newspaper_id,13890956,CID_001127,Freeman's Journal and Daily Commercial Advertiser,DUBLIN FREEMAN'S JOURNAL .
+406,newspaper_id,13890956,CID_001127,Freeman's Journal and Daily Commercial Advertiser,DUBLIN FREEMAN'S JOURNAL .
+407,newspaper_id,13890956,CID_001127,Freeman's Journal and Daily Commercial Advertiser,DUBLIN FREEMAN'S JOURNAL .
+408,newspaper_id,13890956,CID_001127,Freeman's Journal and Daily Commercial Advertiser,DUBLIN FREEMAN'S JOURNAL .
+409,newspaper_id,13890956,CID_001127,Freeman's Journal and Daily Commercial Advertiser,DUBLIN FREEMAN'S JOURNAL .
+410,newspaper_id,13890956,CID_001127,Freeman's Journal and Daily Commercial Advertiser,DUBLIN FREEMAN'S JOURNAL .
+411,manual,13943715,MPD_1846_425,Glasgow Herald,GLASGOW HERALD .
+412,newspaper_id,13943715,CID_000086,Glasgow Herald,GLASGOW HERALD .
+413,newspaper_id,13943715,CID_000086,Glasgow Herald,GLASGOW HERALD .
+414,newspaper_id,13943715,CID_000086,Glasgow Herald,GLASGOW HERALD .
+415,newspaper_id,13943715,CID_000086,Glasgow Herald,GLASGOW HERALD .
+416,newspaper_id,13943715,CID_000086,Glasgow Herald,GLASGOW HERALD .
+417,newspaper_id,13943715,CID_000086,Glasgow Herald,GLASGOW HERALD .
+418,newspaper_id,13943715,CID_000086,Glasgow Herald,GLASGOW HERALD .
+419,newspaper_id,13943715,CID_000086,Glasgow Herald,GLASGOW HERALD .
+420,newspaper_id,13943715,CID_000086,Glasgow Herald,GLASGOW HERALD .
+421,newspaper_id,13943715,CID_000086,Glasgow Herald,GCLASGOW HERALD .
+422,newspaper_id,13943715,CID_000086,Glasgow Herald,GLASGOW HERALD .
+423,newspaper_id,13943715,CID_000086,Glasgow Herald,GLASGOW HERALD .
+424,newspaper_id,13943715,CID_000086,Glasgow Herald,GLASGOW HERALD .
+425,newspaper_id,13943715,CID_000086,Glasgow Herald,GLASGOW HERALD .
+426,newspaper_id,13943715,CID_000086,Glasgow Herald,GLASGOW HERALD .
+427,newspaper_id,13943715,CID_000086,Glasgow Herald,GLASGOW HERALD .
+428,newspaper_id,13943715,CID_000086,Glasgow Herald,GLASGOW HERALD .
+429,newspaper_id,13943715,CID_000086,Glasgow Herald,GLASGOW HERALD .
+430,newspaper_id,13943715,CID_000086,Glasgow Herald,GLASGOW HERALD .
+431,newspaper_id,13943715,CID_000086,Glasgow Herald,GLASGOW HERALD .
+432,newspaper_id,13943715,CID_000086,Glasgow Herald,GLASGOW HERALD .
+433,manual,13895053,MPD_1846_317,"Hampshire Advertiser & Salisbury Guardian , etc.",HAMPSHIRE ADVERTISER .
+434,newspaper_id,13895053,CID_000062,"Hampshire Advertiser & Salisbury Guardian , etc.",HAMPSHIRE ADVERTISER .
+435,newspaper_id,13895053,CID_000062,"Hampshire Advertiser & Salisbury Guardian , etc.",HAMPSHIRE ADVERTISER .
+436,newspaper_id,13895053,CID_000062,"Hampshire Advertiser & Salisbury Guardian , etc.",HAMPSHIRE ADVERTISER .
+437,newspaper_id,13895053,CID_000062,"Hampshire Advertiser & Salisbury Guardian , etc.",HAMPSHIRE ADVERTISER .
+438,newspaper_id,13895053,CID_000062,"Hampshire Advertiser & Salisbury Guardian , etc.",HAMFSHIRE ADVERTISER .
+439,manual,13924139,MPD_1846_299,"Hampshire Telegraph and Sussex Chronicle, etc",HAMPSHIRE TELEGRAPH .
+440,newspaper_id,13924139,CID_000135,"Hampshire Telegraph and Sussex Chronicle, etc",HAMPSHIRE TELEGRAPH .
+441,newspaper_id,13924139,CID_000135,"Hampshire Telegraph and Sussex Chronicle, etc",HAMPSHIRE TELEGRAPH .
+442,newspaper_id,13924139,CID_000135,"Hampshire Telegraph and Sussex Chronicle, etc",HAMPSHIRE TELEGRAPH .
+443,newspaper_id,13924139,CID_000135,"Hampshire Telegraph and Sussex Chronicle, etc",HAMPSHIRE TELEGRAPH .
+444,newspaper_id,13924139,CID_000135,"Hampshire Telegraph and Sussex Chronicle, etc",HAMPSHIRE TELEGRAPH AND SUSSEX CHRONICLE .
+445,newspaper_id,13924139,CID_000135,"Hampshire Telegraph and Sussex Chronicle, etc",HAMPSHIRE TELEGRAPH AND SUSSEX CHRONICLE .
+446,newspaper_id,13924139,CID_000135,"Hampshire Telegraph and Sussex Chronicle, etc",HAMPSHIRE TELEGRAPH AND SUSSEX — CHRONICLE .
+447,newspaper_id,13924139,CID_000135,"Hampshire Telegraph and Sussex Chronicle, etc",HAMPSHIRE TELEGRAPH AND SUSSEX — CHRONICLE .
+448,newspaper_id,13924139,CID_000135,"Hampshire Telegraph and Sussex Chronicle, etc",HAMPSHIRE TELEGRAPH AND SUSSEX CHRONICLE .
+449,newspaper_id,13924139,CID_000135,"Hampshire Telegraph and Sussex Chronicle, etc",HAMPSHIRE TELEGRAPH AND SUSSEX CHRONICLE .
+450,newspaper_id,13924139,CID_000135,"Hampshire Telegraph and Sussex Chronicle, etc",HAMPSHIRE TELEGRAPH AND SUSSEX CHRONICLE .
+451,newspaper_id,13924139,CID_000135,"Hampshire Telegraph and Sussex Chronicle, etc",HAMPSHIRE TELEGRAPH & SUSSEX CHRONICLE .
+452,newspaper_id,13924139,CID_000135,"Hampshire Telegraph and Sussex Chronicle, etc",HAMPSHIRE TELEGRAPH & SUSSEX CHRONICLE .
+453,newspaper_id,13924139,CID_000135,"Hampshire Telegraph and Sussex Chronicle, etc",HAMPSHIRE TELEGRAPH & SUSSEX CHRONICLE .
+454,newspaper_id,13924139,CID_000135,"Hampshire Telegraph and Sussex Chronicle, etc",HAMPSHIRE TELEGRAPH & SUSSEX CHRONICLE .
+455,newspaper_id,13924139,CID_000135,"Hampshire Telegraph and Sussex Chronicle, etc",HAMPSHIRE TELEGRAPH & SUSSEX CHRONICLE .
+456,newspaper_id,13924139,CID_000135,"Hampshire Telegraph and Sussex Chronicle, etc",HAMPSHIRE TELEGRAPH & SUSSEX CHRONICLE .
+457,newspaper_id,13924139,CID_000135,"Hampshire Telegraph and Sussex Chronicle, etc",HAMPSHIRE TELEGRAPH & SUSSEX CHRONICLE .
+458,newspaper_id,13924139,CID_000135,"Hampshire Telegraph and Sussex Chronicle, etc",HAMPSHIRE TELEGRAPH & SUSSEX CHRONICLE .
+459,newspaper_id,13924139,CID_000135,"Hampshire Telegraph and Sussex Chronicle, etc",HAMPSHIRE TELEGRAPH & SUSSEX CHRONICLE .
+460,manual,13898005,MPD_1846_233,"Hull Packet and East Riding Times, The",HULL PACKET .
+461,newspaper_id,13898005,CID_000880,"Hull Packet and East Riding Times, The",HULL PACKET .
+462,newspaper_id,13898005,CID_000880,"Hull Packet and East Riding Times, The",HULL PACKET .
+463,newspaper_id,13898005,CID_000880,"Hull Packet and East Riding Times, The",HULL PACKET .
+464,newspaper_id,13898005,CID_000880,"Hull Packet and East Riding Times, The",HULL PACKET .
+465,newspaper_id,13898005,CID_000880,"Hull Packet and East Riding Times, The",HULL PACKET .
+466,newspaper_id,13898005,CID_000880,"Hull Packet and East Riding Times, The",HULL PACKET .
+467,newspaper_id,13898005,CID_000880,"Hull Packet and East Riding Times, The",HULL PACKET .
+468,newspaper_id,13898005,CID_000880,"Hull Packet and East Riding Times, The",HULL PACKET .
+469,newspaper_id,13898005,CID_000880,"Hull Packet and East Riding Times, The",HULL PACKET .
+470,newspaper_id,13898005,CID_000880,"Hull Packet and East Riding Times, The",HULL PACKET .
+471,newspaper_id,13898005,CID_000880,"Hull Packet and East Riding Times, The",HULL PACKET .
+472,newspaper_id,13898005,CID_000880,"Hull Packet and East Riding Times, The",HULL PACKET .
+473,newspaper_id,13898005,CID_000880,"Hull Packet and East Riding Times, The",HULL PACKET .
+474,manual,13923465,MPD_1846_235,Ipswich Journal,IPSWICH JOURNAL .
+475,newspaper_id,13923465,CID_000273,Ipswich Journal,IPSWICH JOURNAL .
+476,newspaper_id,13923465,CID_000273,Ipswich Journal,IPSWICH JOURNAL .
+477,newspaper_id,13923465,CID_000273,Ipswich Journal,IPSWICH JOURNAL .
+478,newspaper_id,13923465,CID_000273,Ipswich Journal,IPSWICH JOURNAL .
+479,newspaper_id,13923465,CID_000273,Ipswich Journal,IPSWICH JOURNAL .
+480,newspaper_id,13923465,CID_000273,Ipswich Journal,IPSWICH JOURNAL .
+481,newspaper_id,13923465,CID_000273,Ipswich Journal,IPSWICH JOURNAL .
+482,newspaper_id,13923465,CID_000273,Ipswich Journal,IPSWICH JOURNAL .
+483,newspaper_id,13923465,CID_000273,Ipswich Journal,IPSWICH JOURNAL .
+484,newspaper_id,13923465,CID_000273,Ipswich Journal,IPSWICH JOURNAL .
+485,newspaper_id,13923465,CID_000273,Ipswich Journal,IPSWICH JOURNAL .
+486,newspaper_id,13923465,CID_000273,Ipswich Journal,IPSWICH JOURNAL .
+487,newspaper_id,13923465,CID_000273,Ipswich Journal,IPSWICH JOURNAL .
+488,newspaper_id,13923465,CID_000273,Ipswich Journal,IPSWICH JOURNAL .
+489,newspaper_id,13923465,CID_000273,Ipswich Journal,IPSWICH JOURNAL .
+490,newspaper_id,13923465,CID_000273,Ipswich Journal,"DAILY JOURNAL AND SUFFOLK , NORFOLK , ESSEX , ANDCAMBRIDGESHIRE ADVERTISER ."
+491,manual,13924043,MPD_1846_294,Jackson's Oxford Journal,OXFORD JOURNAL .
+492,newspaper_id,13924043,CID_000056,Jackson's Oxford Journal,OXFORD JOURNAL .
+493,newspaper_id,13924043,CID_000056,Jackson's Oxford Journal,OXFORD JOURNAL .
+494,newspaper_id,13924043,CID_000056,Jackson's Oxford Journal,OXFORD JOURNAL .
+495,newspaper_id,13924043,CID_000056,Jackson's Oxford Journal,OXFORD JOURNAL .
+496,newspaper_id,13924043,CID_000056,Jackson's Oxford Journal,OXFORD JOURNAL .
+497,newspaper_id,13924043,CID_000056,Jackson's Oxford Journal,OXFORD JOURNAL .
+498,newspaper_id,13924043,CID_000056,Jackson's Oxford Journal,OXFORD JOURNAL .
+499,newspaper_id,13924043,CID_000056,Jackson's Oxford Journal,OXFORD JOURNAL .
+500,newspaper_id,13924043,CID_000056,Jackson's Oxford Journal,OXFORD JOURNAL .
+501,newspaper_id,13924043,CID_000056,Jackson's Oxford Journal,OXFORD JOURNAL .
+502,newspaper_id,13924043,CID_000056,Jackson's Oxford Journal,OXFORD JOURNAL .
+503,newspaper_id,13924043,CID_000056,Jackson's Oxford Journal,OXFORD JOURNAL .
+504,newspaper_id,13924043,CID_000056,Jackson's Oxford Journal,OXFORD JOURNAL .
+505,newspaper_id,13924043,CID_000056,Jackson's Oxford Journal,OXFORD JOURNAL .
+506,newspaper_id,13924043,CID_000056,Jackson's Oxford Journal,OXFORD JOURNAL .
+507,newspaper_id,13924043,CID_000056,Jackson's Oxford Journal,OXFORD JOURNAL .
+508,newspaper_id,13924043,CID_000056,Jackson's Oxford Journal,OXFORD JOURNAL .
+509,newspaper_id,13924043,CID_000056,Jackson's Oxford Journal,OXFORD JOURNAL .
+510,newspaper_id,13924043,CID_000056,Jackson's Oxford Journal,OXFORD JOURNAL .
+511,newspaper_id,13924043,CID_000056,Jackson's Oxford Journal,OXFORD JOURNAL .
+512,manual,13898239,MPD_1846_241,"Lancaster gazette, etc. The,",LANCASTER GAZETTE .
+513,newspaper_id,13898239,CID_000337,"Lancaster gazette, etc. The,",LANCASTER GAZETTE .
+514,newspaper_id,13898239,CID_000337,"Lancaster gazette, etc. The,",LANCASTER GAZETTE .
+515,newspaper_id,13898239,CID_000337,"Lancaster gazette, etc. The,",LANCASTER GAZETTE .
+516,newspaper_id,13898239,CID_000337,"Lancaster gazette, etc. The,",LANCASTER GAZETTE .
+517,newspaper_id,13898239,CID_000337,"Lancaster gazette, etc. The,",LANCASTER GAZETTE .
+518,newspaper_id,13898239,CID_000337,"Lancaster gazette, etc. The,",LANCASTER GAZETTE .
+519,newspaper_id,13898239,CID_000337,"Lancaster gazette, etc. The,",LANCASTER GAZETTE .
+520,newspaper_id,13898239,CID_000337,"Lancaster gazette, etc. The,",LANCASTER GAZETTE .
+521,newspaper_id,13898239,CID_000337,"Lancaster gazette, etc. The,",LANCASTER GAZETTE .
+522,newspaper_id,13898239,CID_000337,"Lancaster gazette, etc. The,",LANCASTER GAZETTE .
+523,newspaper_id,13898239,CID_000337,"Lancaster gazette, etc. The,",LANCASTER GAZETTE .
+524,newspaper_id,13898239,CID_000337,"Lancaster gazette, etc. The,",LANCASTER GAZETTE .
+525,newspaper_id,13898239,CID_000337,"Lancaster gazette, etc. The,",LANCASTER GAZETTE .
+526,newspaper_id,13898239,CID_000337,"Lancaster gazette, etc. The,",LANCASTER GAZETTE .
+527,newspaper_id,13898239,CID_000337,"Lancaster gazette, etc. The,",LANCASTER GAZETTE .
+528,newspaper_id,13898239,CID_000337,"Lancaster gazette, etc. The,",LANCASTER GAZETTE .
+529,newspaper_id,13898239,CID_000337,"Lancaster gazette, etc. The,","LANCASTER . GAZETTE ,"
+530,newspaper_id,13898239,CID_000337,"Lancaster gazette, etc. The,",LANCASTER GAZETTE .
+531,manual,13889900,MPD_1846_244,"Leeds Intelligencer and Yorkshire General Advertiser, The",LEEDS INTELLIGENCER .
+532,newspaper_id,13889900,CID_000038,"Leeds Intelligencer and Yorkshire General Advertiser, The",LEEDS INTELLIGENCER .
+533,newspaper_id,13889900,CID_000038,"Leeds Intelligencer and Yorkshire General Advertiser, The",LEEDS INTELLIGENCER .
+534,newspaper_id,13889900,CID_000038,"Leeds Intelligencer and Yorkshire General Advertiser, The",LEEDS INTELLIGENCER .
+535,newspaper_id,13889900,CID_000038,"Leeds Intelligencer and Yorkshire General Advertiser, The",LEEDS INTELLIGENCER .
+536,newspaper_id,13889900,CID_000038,"Leeds Intelligencer and Yorkshire General Advertiser, The",LEEDS INTELLIGENCER .
+537,newspaper_id,13889900,CID_000038,"Leeds Intelligencer and Yorkshire General Advertiser, The",LEEDS INTELLIGENCER .
+538,newspaper_id,13889900,CID_000038,"Leeds Intelligencer and Yorkshire General Advertiser, The",LEEDS INTELLIGENCER .
+539,manual,13898320,MPD_1846_245,Leeds Mercury,LEEDS MERCURY .
+540,newspaper_id,13898320,CID_002309,Leeds Mercury,LEEDS MERCURY .
+541,newspaper_id,13898320,CID_002309,Leeds Mercury,LEEDS MERCURY .
+542,newspaper_id,13898320,CID_002309,Leeds Mercury,LEEDS MERCURY .
+543,newspaper_id,13898320,CID_002309,Leeds Mercury,LEEDS MERCURY .
+544,newspaper_id,13898320,CID_002309,Leeds Mercury,LEEDS MERCURY .
+545,manual,13893741,MPD_1846_248,"Leicester Chronicle: or, Commercial and Agricultural Advertiser, The",LEICESTER CHRONICLE .
+546,newspaper_id,13893741,CID_002083,"Leicester Chronicle: or, Commercial and Agricultural Advertiser, The",LEICESTER CHRONICLE .
+547,newspaper_id,13893741,CID_002083,"Leicester Chronicle: or, Commercial and Agricultural Advertiser, The",LEICESTER CHRONICLE .
+548,newspaper_id,13893741,CID_002083,"Leicester Chronicle: or, Commercial and Agricultural Advertiser, The",LEICESTER CHRONICLE .
+549,newspaper_id,13893741,CID_002083,"Leicester Chronicle: or, Commercial and Agricultural Advertiser, The",LEICESTER CHRONICLE .
+550,newspaper_id,13893741,CID_002083,"Leicester Chronicle: or, Commercial and Agricultural Advertiser, The",LEICESTER CHRONICLE .
+551,newspaper_id,13893741,CID_002083,"Leicester Chronicle: or, Commercial and Agricultural Advertiser, The",LIUCESTER CHRONICLE .
+552,manual,13898683,MPD_1846_262,Liverpool Mercury,LIVERPOOL MERCURY .
+553,newspaper_id,13898683,CID_000044,Liverpool Mercury,LIVERPOOL MERCURY .
+554,newspaper_id,13898683,CID_000044,Liverpool Mercury,LIVERPOOL MERCURY .
+555,newspaper_id,13898683,CID_000044,Liverpool Mercury,LIVERPOOL MERCURY .
+556,newspaper_id,13898683,CID_000044,Liverpool Mercury,LIVERPOOL MERCURY .
+557,newspaper_id,13898683,CID_000044,Liverpool Mercury,LIVERPOOL MERCURY .
+558,newspaper_id,13898683,CID_000044,Liverpool Mercury,LIVERPOOL MERCURY .
+559,newspaper_id,13898683,CID_000044,Liverpool Mercury,LIVERPOOL MERCURY .
+560,newspaper_id,13898683,CID_000044,Liverpool Mercury,LIVERPOOL MERCURY .
+561,newspaper_id,13898683,CID_000044,Liverpool Mercury,LIVERPOOL MERCURY .
+562,newspaper_id,13898683,CID_000044,Liverpool Mercury,LIVERPOOL MERCURY .
+563,newspaper_id,13898683,CID_000044,Liverpool Mercury,LIVERPOOL MERCURY .
+564,newspaper_id,13898683,CID_000044,Liverpool Mercury,LIVERPOOL MERCURY .
+565,newspaper_id,13898683,CID_000044,Liverpool Mercury,LIVERPOOL MERCURY .
+566,newspaper_id,13898683,CID_000044,Liverpool Mercury,LIVERPOOL MERCURY . TAVERPOOL M
+567,newspaper_id,13898683,CID_000044,Liverpool Mercury,LIVERPOOL MERCURY .
+568,newspaper_id,13898683,CID_000044,Liverpool Mercury,LIVERPOOL MERCURY .
+569,newspaper_id,13898683,CID_000044,Liverpool Mercury,LIVERPOOL MERCURY .
+570,newspaper_id,13898683,CID_000044,Liverpool Mercury,LIVERPOOL MERCURY .
+571,newspaper_id,13898683,CID_000044,Liverpool Mercury,MERCURY .
+572,newspaper_id,13898683,CID_000044,Liverpool Mercury,LIVERPOOL MERCURY .
+573,newspaper_id,13898683,CID_000044,Liverpool Mercury,LIVERPOOL MERCURY .
+574,manual,13899323,MPD_1846_275,"Manchester Times and Gazette, The",MANCHESTER TIMES .
+575,newspaper_id,13899323,CID_004476,"Manchester Times and Gazette, The",MANCHESTER TIMES .
+576,manual,13943623,MPD_1846_279,Newcastle Courant,NEWCASTLE COURANT .
+577,newspaper_id,13943623,CID_000050,Newcastle Courant,NEWCASTLE COURANT .
+578,newspaper_id,13943623,CID_000050,Newcastle Courant,NEWCASTLE COURANT .
+579,newspaper_id,13943623,CID_000050,Newcastle Courant,NEWCASTLE COURANT .
+580,newspaper_id,13943623,CID_000050,Newcastle Courant,NEWCASTLE COURANT .
+581,newspaper_id,13943623,CID_000050,Newcastle Courant,NEWCASTLE COURANT .
+582,newspaper_id,13943623,CID_000050,Newcastle Courant,NEWCASTLE COURANT .
+583,newspaper_id,13943623,CID_000050,Newcastle Courant,NEWCASTLE COURANT .
+584,newspaper_id,13943623,CID_000050,Newcastle Courant,NEWCASTLE COURANT .
+585,newspaper_id,13943623,CID_000050,Newcastle Courant,NEWCASTLE COURANT .
+586,newspaper_id,13943623,CID_000050,Newcastle Courant,NEWCASTLE DAILY COURANT LAd
+587,newspaper_id,13943623,CID_000050,Newcastle Courant,NEWCASTLE DAILY COURANT .
+588,manual,13943606,MPD_1846_353,North Wales Chronicle,NORTH WALES CHRONICLE .
+589,newspaper_id,13943606,CID_000072,North Wales Chronicle,NORTH WALES CHRONICLE .
+590,newspaper_id,13943606,CID_000072,North Wales Chronicle,THE NORTH WALES CHRONICLE AND AD - VERTISER FOR THE PRINCIPALITY .
+591,newspaper_id,13943606,CID_000072,North Wales Chronicle,NORTH WALES CHRONICLE AND ADVER - TISER FOR THE PRINCIPALITY .
+592,newspaper_id,13943606,CID_000072,North Wales Chronicle,NORTH WALES CHRONICLE AND ADVER - TISER FOR THE PRINCIPALITY .
+593,newspaper_id,13943606,CID_000072,North Wales Chronicle,NORTH WALES CHRONICLE AND ADVERTISER FOR THE PRINCIPALITY .
+594,newspaper_id,13943606,CID_000072,North Wales Chronicle,NORTH WALES CHRONICLE AND ADVER - — TISER FOR THE PRINCIPALITY .
+595,newspaper_id,13943606,CID_000072,North Wales Chronicle,NORTH WALES CHRONICLE AND ADVERTISER FOR THE PRINCIPALITY .
+596,newspaper_id,13943606,CID_000072,North Wales Chronicle,NORTH WALES CHRONICLE .
+597,newspaper_id,13943606,CID_000072,North Wales Chronicle,NORTH WALES CHRONICLE .
+598,newspaper_id,13943606,CID_000072,North Wales Chronicle,NORTH WALES CHRONICLE . AREDJ .
+599,newspaper_id,13943606,CID_000072,North Wales Chronicle,"NORTH WALES CHRONICLE ,"
+600,newspaper_id,13943606,CID_000072,North Wales Chronicle,NORTH WALES CHRONICLE .
+601,newspaper_id,13943606,CID_000072,North Wales Chronicle,"NORTH WALES CHRONICLE ,"
+602,newspaper_id,13943606,CID_000072,North Wales Chronicle,NORTH WALES CHRONICLE .
+603,newspaper_id,13943606,CID_000072,North Wales Chronicle,NORTH WALES CHRONICLE .
+604,newspaper_id,13943606,CID_000072,North Wales Chronicle,NORTH WALES CHRONICLE .
+605,newspaper_id,13943606,CID_000072,North Wales Chronicle,NORTH WALES CHRONICLE .
+606,newspaper_id,13943606,CID_000072,North Wales Chronicle,NORTH WALES CHRONICLE .
+607,newspaper_id,13943606,CID_000072,North Wales Chronicle,NORTH WALES CHRONICLE .
+608,newspaper_id,13943606,CID_000072,North Wales Chronicle,NORTH WALES CHRONICLE .
+609,newspaper_id,13943606,CID_000072,North Wales Chronicle,NORTH WALES CHRONICLE .
+610,manual,13898345,MPD_1846_85,"Northern Star and National Trades' Journal, The",NORTHERN STAR .
+611,manual,13900633,MPD_1846_300,Preston Chronicle and Lancashire Advertiser,PRESTON CHRONICLE .
+612,newspaper_id,13900633,CID_000431,Preston Chronicle and Lancashire Advertiser,PRESTON CHRONICLE .
+613,newspaper_id,13900633,CID_000431,Preston Chronicle and Lancashire Advertiser,PRESTON CHRONICLE .
+614,newspaper_id,13900633,CID_000431,Preston Chronicle and Lancashire Advertiser,PRESTON CHRONICLE .
+615,newspaper_id,13900633,CID_000431,Preston Chronicle and Lancashire Advertiser,PRESTON CHRONICLE .
+616,newspaper_id,13900633,CID_000431,Preston Chronicle and Lancashire Advertiser,PRESTON CHRONICLE .
+617,newspaper_id,13900633,CID_000431,Preston Chronicle and Lancashire Advertiser,PRESTON CHRONICLE .
+618,newspaper_id,13900633,CID_000431,Preston Chronicle and Lancashire Advertiser,PRESTON CHRONICLE .
+619,newspaper_id,13900633,CID_000431,Preston Chronicle and Lancashire Advertiser,PRESTON CHRONICLE .
+620,newspaper_id,13900633,CID_000431,Preston Chronicle and Lancashire Advertiser,PRESTON CHRONICLE .
+621,newspaper_id,13900633,CID_000431,Preston Chronicle and Lancashire Advertiser,PRESTON CHRONICLE .
+622,newspaper_id,13900633,CID_000431,Preston Chronicle and Lancashire Advertiser,PRESTON CHRONICLE .
+623,newspaper_id,13900633,CID_000431,Preston Chronicle and Lancashire Advertiser,PRESTON CHRONICLE .
+624,newspaper_id,13900633,CID_000431,Preston Chronicle and Lancashire Advertiser,PRESTON CHRONICLE .
+625,newspaper_id,13900633,CID_000431,Preston Chronicle and Lancashire Advertiser,PRESTON CHRONICLE .
+626,newspaper_id,13900633,CID_000431,Preston Chronicle and Lancashire Advertiser,PRESTON CHRONICLE .
+627,newspaper_id,13900633,CID_000431,Preston Chronicle and Lancashire Advertiser,PRESTON CHRONICLE .
+628,newspaper_id,13900633,CID_000431,Preston Chronicle and Lancashire Advertiser,"PRESTON CHRONICLE ,"
+629,newspaper_id,13900633,CID_000431,Preston Chronicle and Lancashire Advertiser,PRESTON CHRONICLE .
+630,manual,13908878,MPD_1846_330,"Cornwall Royal Gazette, Falmouth Packet and Plymouth Journal, The",CORNWALL ROYAL GAZETTE .
+631,newspaper_id,13908878,CID_000136,"Cornwall Royal Gazette, Falmouth Packet and Plymouth Journal, The",CORNWALL ROYAL GAZETTE .
+632,manual,13907845,MPD_1846_309,Sheffield & Rotherham Independent,SHEFFIELD INDEPENDENT .
+633,newspaper_id,13907845,CID_000060,Sheffield & Rotherham Independent,SHEFFIELD INDEPENDENT .
+634,newspaper_id,13907845,CID_000060,Sheffield & Rotherham Independent,SHEFFIELD INDEPENDENT .
+635,newspaper_id,13907845,CID_000060,Sheffield & Rotherham Independent,SHEFFIELD INDEPENDENT .
+636,newspaper_id,13907845,CID_000060,Sheffield & Rotherham Independent,SHEFFIELD INDEPENDENT .
+637,newspaper_id,13907845,CID_000060,Sheffield & Rotherham Independent,SHEFFIELD INDEPENDENT .
+638,newspaper_id,13907845,CID_000060,Sheffield & Rotherham Independent,SHEFFIELD & ROTHERHAM INDEPENDENT .
+639,newspaper_id,13907845,CID_000060,Sheffield & Rotherham Independent,SHEFFIELD & ROTHERHAM INDEPENDENT .
+640,newspaper_id,13907845,CID_000060,Sheffield & Rotherham Independent,SHEFFIELD & ROTHERHAM INDEPENDENT .
+641,newspaper_id,13907845,CID_000060,Sheffield & Rotherham Independent,SHEFFIELD & ROTHERHAM INDEPENDENT .
+642,newspaper_id,13907845,CID_000060,Sheffield & Rotherham Independent,SHEFFIELD & ROTHERHAM INDEPENDENT .
+643,newspaper_id,13907845,CID_000060,Sheffield & Rotherham Independent,SHEFFIELD & ROTHERHAM INDEPENDENT .
+644,newspaper_id,13907845,CID_000060,Sheffield & Rotherham Independent,SHEFFIELD & ROTHERHAM INDEPENDENT .
+645,newspaper_id,13907845,CID_000060,Sheffield & Rotherham Independent,SHEFFIELD AND ROTHERHAM INDEPENDENT .
+646,newspaper_id,13907845,CID_000060,Sheffield & Rotherham Independent,SHEFFIELD AND ROTHERHAM INDEPENDENT .
+647,newspaper_id,13907845,CID_000060,Sheffield & Rotherham Independent,SHEFFIELD AND ROTHERHAM INDEPENDENT .
+648,newspaper_id,13907845,CID_000060,Sheffield & Rotherham Independent,SHEFFIELD AND ROTHERHAM INDEPENDENT .
+649,newspaper_id,13907845,CID_000060,Sheffield & Rotherham Independent,SHEFFIELD AND ROTHERHAM INDEPENDENT .
+650,newspaper_id,13907845,CID_000060,Sheffield & Rotherham Independent,SHEFFISID AND INDEPENDENT .
+651,newspaper_id,13907845,CID_000060,Sheffield & Rotherham Independent,SHEFSHAD AND INDEPENDENT .
+652,newspaper_id,13907845,CID_000060,Sheffield & Rotherham Independent,SHEFFIELD AND INDEPENDENT .
+653,newspaper_id,13907845,CID_000060,Sheffield & Rotherham Independent,SHEFFIELD AND ROTHERHAM INDEPENDENT .
+654,manual,13906716,MPD_1846_207,Trewman's Exeter Flying Post,EXETER FLYING POST ( TREWMAN'S ) .
+655,newspaper_id,13906716,CID_000655,Trewman's Exeter Flying Post,EXETER FLYING POST ( TREWMAN'S ) .
+656,newspaper_id,13906716,CID_000655,Trewman's Exeter Flying Post,EXETER FLYING POST ( TREWMAN'S ) .
+657,newspaper_id,13906716,CID_000655,Trewman's Exeter Flying Post,EXETER FLYING POST ( TREWMAN'S ) .
+658,newspaper_id,13906716,CID_000655,Trewman's Exeter Flying Post,EXETER FLYING POST ( TREWMAN'S ) .
+659,newspaper_id,13906716,CID_000655,Trewman's Exeter Flying Post,EXETER FLYING POST ( TREWMAN'S ) .
+660,newspaper_id,13906716,CID_000655,Trewman's Exeter Flying Post,EXETER FLYING POST ( TREWMAN'S ) .
+661,newspaper_id,13906716,CID_000655,Trewman's Exeter Flying Post,EXETER FLYING POST ( TREWMAN'S ) .
+662,newspaper_id,13906716,CID_000655,Trewman's Exeter Flying Post,EXETER FLYING POST ( TREWMAN'S ) .
+663,newspaper_id,13906716,CID_000655,Trewman's Exeter Flying Post,EXETER FLYING POST ( TREWMANYS ) .
+664,newspaper_id,13906716,CID_000655,Trewman's Exeter Flying Post,EXETER FLYING POST ( TREWMAN'S ) .
+665,newspaper_id,13906716,CID_000655,Trewman's Exeter Flying Post,EXETER FLYING POST ( TREWMAN'S ) .
+666,newspaper_id,13906716,CID_000655,Trewman's Exeter Flying Post,EXETER FLYING POST ( TREWMAN'S ) .
+667,newspaper_id,13906716,CID_000655,Trewman's Exeter Flying Post,EXETER FLYING POST ( TREWMAN'S ) .
+668,newspaper_id,13906716,CID_000655,Trewman's Exeter Flying Post,EXETER FLYING POST ( TREWMAN'S ) .
+669,newspaper_id,13906716,CID_000655,Trewman's Exeter Flying Post,EXETER FLYING POST ( TREWMAN'S ) .
+670,manual,13943616,MPD_1846_345,Berrow's Worcester Journal,WORCESTER JOURNAL ( BURROW'S ) .
+671,newspaper_id,13943616,CID_000071,Berrow's Worcester Journal,WORCESTER JOURNAL ( BURROW'S ) .
+672,newspaper_id,13943616,CID_000071,Berrow's Worcester Journal,WORCESTER JOURNAL ( BERROW'S ) .
+673,newspaper_id,13943616,CID_000071,Berrow's Worcester Journal,WORCESTER JOURNAL ( BERROW'S ) .
+674,newspaper_id,13943616,CID_000071,Berrow's Worcester Journal,WORCESTER JOURNAL ( BERROW'S ) .
+675,newspaper_id,13943616,CID_000071,Berrow's Worcester Journal,WORCESTER JOURNAL ( BERROW'S ) .
+676,newspaper_id,13943616,CID_000071,Berrow's Worcester Journal,WORCESTER JOURNAL ( BERROW'S ) .
+677,newspaper_id,13943616,CID_000071,Berrow's Worcester Journal,WORCESTER JOURNAL ( BERROW'S ) .
+678,newspaper_id,13943616,CID_000071,Berrow's Worcester Journal,WORCESTER JOURNAL ( BERROW'S ) .
+679,newspaper_id,13943616,CID_000071,Berrow's Worcester Journal,WORCESTER JOURNAL ( BERROW'S ) .
+680,newspaper_id,13943616,CID_000071,Berrow's Worcester Journal,BERROW'S WORCESTER JOURNAL .
+681,newspaper_id,13943616,CID_000071,Berrow's Worcester Journal,BERROW'S WORCESTER JOURNALl .
+682,newspaper_id,13943616,CID_000071,Berrow's Worcester Journal,BERROW'S WORCESTER JOURNAL .
+683,newspaper_id,13943616,CID_000071,Berrow's Worcester Journal,BERROW'S WORCESTER JOURNAL .
+684,newspaper_id,13943616,CID_000071,Berrow's Worcester Journal,BERROW'S WORCESTER JOURNAL .
+685,newspaper_id,13943616,CID_000071,Berrow's Worcester Journal,BERROW'S WORCESTER JOURNAL .
+686,newspaper_id,13943616,CID_000071,Berrow's Worcester Journal,BERROW'S WORCESTER JOURNAL .
+687,newspaper_id,13943616,CID_000071,Berrow's Worcester Journal,BERROW'S WORCESTER JOURNAL .
+688,newspaper_id,13943616,CID_000071,Berrow's Worcester Journal,BERROW'S WORCESTER JOURNAL .
+689,newspaper_id,13943616,CID_000071,Berrow's Worcester Journal,BERROW'S WORCESTER JOURNAL .
+690,manual,13901442,MPD_1846_351,"York Herald and General Advertiser, The",YORK HERALD .
+691,newspaper_id,13901442,CID_000663,"York Herald and General Advertiser, The",YORK HERALD .
+692,newspaper_id,13901442,CID_000663,"York Herald and General Advertiser, The","YORK HERALD ,"
+693,manual,13943727,MPD_1858_193,Birmingham Daily Post,BIRMINGHAM DAILY POST .
+694,newspaper_id,13943727,CID_000251,Birmingham Daily Post,BIRMINGHAM DAILY POST
+695,newspaper_id,13943727,CID_000251,Birmingham Daily Post,BIRMINGHAM DAILLY POST .
+696,newspaper_id,13943727,CID_000251,Birmingham Daily Post,BIRMINGHAM DAILY POST .
+697,newspaper_id,13943727,CID_000251,Birmingham Daily Post,BIRMINGHAM DAILY POST .
+698,newspaper_id,13943727,CID_000251,Birmingham Daily Post,BIRMINGHAM DAILY POST .
+699,newspaper_id,13943727,CID_000251,Birmingham Daily Post,BIRMINGHAM DAILY POST .
+700,newspaper_id,13943727,CID_000251,Birmingham Daily Post,BIRMINGHAM DAILY POST .
+701,newspaper_id,13943727,CID_000251,Birmingham Daily Post,BIRMINGHAM DAILY POST .
+702,newspaper_id,13943727,CID_000251,Birmingham Daily Post,BIRMINGHAM DAILY POST .
+703,newspaper_id,13943727,CID_000251,Birmingham Daily Post,BIRMINGHAM POST .
+704,newspaper_id,13943727,CID_000251,Birmingham Daily Post,BIRMINGHAM POST .
+705,newspaper_id,13943727,CID_000251,Birmingham Daily Post,BIRMINGHAM POST .
+706,newspaper_id,13943727,CID_000251,Birmingham Daily Post,BIRMINGHAM POST .
+707,newspaper_id,13943727,CID_000251,Birmingham Daily Post,BIRMINGHAM POST .
+708,newspaper_id,13943727,CID_000251,Birmingham Daily Post,BIRMINGHAM POST .
+709,newspaper_id,13943727,CID_000251,Birmingham Daily Post,BIRMINGHAM POST .
+710,newspaper_id,13943727,CID_000251,Birmingham Daily Post,BIRMINGHAM POST .
+711,manual,13890694,MPD_1870_728,"The Evening Gazette for Middlesbrough, Stockton and District",MIDDLESBROUGH DAILY GAZETTE .
+712,manual,13905401,MPD_1870_1054,Goleuad,YOGGOLEUAD .
+713,manual,13891242,MPD_1870_454,Northern Echo,NORTHERN ECHO .
+714,newspaper_id,13891242,CID_000633,Northern Echo,NORTHERN ECHO .
+715,newspaper_id,13891242,CID_000633,Northern Echo,NORTHERN ECHO .
+716,newspaper_id,13891242,CID_000633,Northern Echo,NORTHERN KCHO .
+717,newspaper_id,13891242,CID_000633,Northern Echo,NORTHERN ECHO .
+718,newspaper_id,13891242,CID_000633,Northern Echo,NORTHERN ECHO .
+719,newspaper_id,13891242,CID_000633,Northern Echo,NORTHERN ECHO .
+720,newspaper_id,13891242,CID_000633,Northern Echo,NORTHERN ECHO .
+721,newspaper_id,13891242,CID_000633,Northern Echo,NORTHERN ECHO .
+722,newspaper_id,13891242,CID_000633,Northern Echo,NORTHERN ECHO .
+723,newspaper_id,13891242,CID_000633,Northern Echo,NORTHERN ECHO .
+724,newspaper_id,13891242,CID_000633,Northern Echo,NORTHERN ECHO .
+725,newspaper_id,13891242,CID_000633,Northern Echo,NORTHERN ECHO .
+726,manual,13890612,MPD_1870_1045,Western Mail,WESTERN MAIL .
+727,manual,13890696,MPD_1883_1070,"North-Eastern Daily Gazette (Middlesbrough), The",EASTERN DAILY GAZETTE .
+728,newspaper_id,13890696,CID_004962,"North-Eastern Daily Gazette (Middlesbrough), The", NORTH-EASTERN DAILY GAZETTE .
+729,manual,13905401,MPD_1883_1560,Goleuad,Y Goleua
+730,manual,13890612,MPD_1883_1544,Western Mail,"WESTERN MAIL ,"
+731,manual,13921362,MPD_1878_1393,Aberdeen Weekly Journal and general advertiser for the north of Scotland,ABERDEEN WEEKLY JOURNAL .
+732,newspaper_id,13921362,CID_000075,Aberdeen Weekly Journal and general advertiser for the north of Scotland,ABERDEEN WEEKLY JOURNAl .
+733,newspaper_id,13921362,CID_000075,Aberdeen Weekly Journal and general advertiser for the north of Scotland,ABERDEEN WEEKLY JOURNAL .
+734,newspaper_id,13921362,CID_000075,Aberdeen Weekly Journal and general advertiser for the north of Scotland,ABERDEEN WEEKLY JOURNAL .
+735,newspaper_id,13921362,CID_000075,Aberdeen Weekly Journal and general advertiser for the north of Scotland,EDEAN WEEKLY JOURNAL .
+736,newspaper_id,13921362,CID_000075,Aberdeen Weekly Journal and general advertiser for the north of Scotland,ABERDEEN WEEKLY JOURNAL .
+737,newspaper_id,13921362,CID_000075,Aberdeen Weekly Journal and general advertiser for the north of Scotland,ABERDEEN WEEKLY JOURNAL .
+738,newspaper_id,13921362,CID_000075,Aberdeen Weekly Journal and general advertiser for the north of Scotland,ABERDEEN WEEKLY JOURNAL .
+739,newspaper_id,13921362,CID_000075,Aberdeen Weekly Journal and general advertiser for the north of Scotland,ABERDEEN WEEKLY JOURNAL .
+740,newspaper_id,13921362,CID_000075,Aberdeen Weekly Journal and general advertiser for the north of Scotland,ABERDEEN WEEKLY JOURNAL .
+741,manual,13921362,MPD_1878_1392,Aberdeen Weekly Journal and general advertiser for the north of Scotland,ABERDEEN JOURNAL .
+742,newspaper_id,13921362,CID_000989,Aberdeen Weekly Journal and general advertiser for the north of Scotland,ABERDEEN JOURNAL .
+743,newspaper_id,13921362,CID_000989,Aberdeen Weekly Journal and general advertiser for the north of Scotland,ABERDEEN JOURNAL .
+744,newspaper_id,13921362,CID_000989,Aberdeen Weekly Journal and general advertiser for the north of Scotland,ABERDEEN JOURNAL .
+745,newspaper_id,13921362,CID_000989,Aberdeen Weekly Journal and general advertiser for the north of Scotland,ABERDEEN JOURNAL .
+746,newspaper_id,13921362,CID_000989,Aberdeen Weekly Journal and general advertiser for the north of Scotland,ABERDEEN JOURNAL .
+747,newspaper_id,13921362,CID_000989,Aberdeen Weekly Journal and general advertiser for the north of Scotland,ABERDEEN JOURNAL .
+748,newspaper_id,13921362,CID_000989,Aberdeen Weekly Journal and general advertiser for the north of Scotland,ABERDEEN JOURNAL .
+749,newspaper_id,13921362,CID_000989,Aberdeen Weekly Journal and general advertiser for the north of Scotland,ABERDEEN JOURNAL .
+750,newspaper_id,13921362,CID_000989,Aberdeen Weekly Journal and general advertiser for the north of Scotland,ABERDEEN JOURNAL .
+751,manual,13896864,MPD_1878_403,"Blackburn Standard: Darwen Observer, and North-East Lancashire Advertiser, The",BLACKBURN STANDARD .
+752,newspaper_id,13896864,CID_000572,"Blackburn Standard: Darwen Observer, and North-East Lancashire Advertiser, The",BLACKBURN STANDARD .
+753,newspaper_id,13896864,CID_000572,"Blackburn Standard: Darwen Observer, and North-East Lancashire Advertiser, The",BLACKBURN STANDARD .
+754,newspaper_id,13896864,CID_000572,"Blackburn Standard: Darwen Observer, and North-East Lancashire Advertiser, The",BLACKBURN STANDARD .
+755,newspaper_id,13896864,CID_000572,"Blackburn Standard: Darwen Observer, and North-East Lancashire Advertiser, The",BLACKBURN STANDARD .
+756,manual,13897353,MPD_1878_466,"Bristol Mercury and Daily Post, the",BERISTOL MERCURY .
+757,manual,13893336,MPD_1878_487,Bury and Norwich Post,BURY AND NorwicH POST .
+758,newspaper_id,13893336,CID_003193,Bury and Norwich Post,BURY AND NORWICH POST .
+759,newspaper_id,13893336,CID_003193,Bury and Norwich Post,BURY AND NORWICH POST .
+760,newspaper_id,13893336,CID_003193,Bury and Norwich Post,BURY AND NORWICH POST .
+761,manual,13890695,MPD_1878_945,"The Daily Gazette for Middlesbrough, Stockton and District",DAILY GAZETTE .
+762,newspaper_id,13890695,CID_004890,"The Daily Gazette for Middlesbrough, Stockton and District",DAILY GAZETTE .
+763,manual,13890956,MPD_1878_1614,Freeman's Journal and Daily Commercial Advertiser,DUBLIN FREEMAN'S JOURNAL .
+764,newspaper_id,13890956,CID_003210,Freeman's Journal and Daily Commercial Advertiser,DUBLIN FREEMAN'S JOURNAL .
+765,newspaper_id,13890956,CID_003210,Freeman's Journal and Daily Commercial Advertiser,DUBLIN FREEMAN'S JOURNAL .
+766,newspaper_id,13890956,CID_003210,Freeman's Journal and Daily Commercial Advertiser,FREEMAN'S JOURNAL .
+767,manual,13905399,MPD_1878_1359,"Genedl Gymraeg, Y",YOEGENEDL CYMRAEG .
+768,newspaper_id,13905399,CID_003209,"Genedl Gymraeg, Y","YGENEDL GYMREIG ,"
+769,newspaper_id,13905399,CID_003209,"Genedl Gymraeg, Y",Y GENEDL GYMREIG .
+770,newspaper_id,13905399,CID_003209,"Genedl Gymraeg, Y",Y GENEDL GYMREIG .
+771,manual,13943623,MPD_1878_967,Newcastle Courant,NEWCASTLE WEEKLY COURANT AND NORTH OF ENGLAND FARMER .
+772,newspaper_id,13943623,CID_000743,Newcastle Courant,NEWCASTLE WEEKLY COURANT AND NORTH OF IEANGLAND FARMER .
+773,newspaper_id,13943623,CID_000743,Newcastle Courant,NEWCASTLE WEEKLY COURANT AND NORTH OF ENGLAND FARMER .
+774,manual,13896866,MPD_1895_589,"Weekly Standard and Express, The",WEEKLY STANDARD AND EXPRESS .
+775,newspaper_id,13896866,CID_005177,"Weekly Standard and Express, The",BLACKBURN WEEKLY STANDARD .
+776,manual,13905399,MPD_1895_1851,"Genedl Gymraeg, Y",YOGENEDL GYMREIG .
+777,newspaper_id,13905399,CID_002280,"Genedl Gymraeg, Y",Y GENEDL GYMREIG .
+778,newspaper_id,13905399,CID_002280,"Genedl Gymraeg, Y","YGENEDL GYMREIG ,"
+779,manual,13906716,MPD_1895_907,Trewman's Exeter Flying Post,EXETER FLYING POST ( TREWMAN'S ) .
+780,newspaper_id,13906716,CID_002508,Trewman's Exeter Flying Post,EXETER FLYING POST ( TREWMAN'S ) .
+781,newspaper_id,13906716,CID_002508,Trewman's Exeter Flying Post,EXETER FLYING POST ( TREWMAN'S ) .
+782,manual,13906329,MPD_1885_1649,Baner ac Amserau Cymru,BANER AC AMSERAU CYMRU ( Wales ) .
+783,newspaper_id,13906329,CID_001399,Baner ac Amserau Cymru,BANER AC AMSERAU CYMRU (
+784,newspaper_id,13906329,CID_001399,Baner ac Amserau Cymru,BANER AC AMSERAU CYMRU ( Wales ) .
+785,newspaper_id,13906329,CID_001399,Baner ac Amserau Cymru,BANER AC AMSERAU CYMRU ( Banner and Wales ) .
+786,newspaper_id,13906329,CID_001399,Baner ac Amserau Cymru,BANER AC AMSERAU CYMRU (
+787,newspaper_id,13906329,CID_001399,Baner ac Amserau Cymru,BANER AC AMSERAU CYMRU ( YWWoales ) .
+788,newspaper_id,13906329,CID_001399,Baner ac Amserau Cymru,BANER AC AMSERAU CYMRU ( Banner and Wales ) .
+789,manual,13905401,MPD_1885_1653,Goleuad,YOGOLEUAD .
+790,newspaper_id,13905401,CID_001400,Goleuad,YGOLREUAD .
+791,newspaper_id,13905401,CID_001400,Goleuad,Y GOLEUAD .
+792,newspaper_id,13905401,CID_001400,Goleuad,Y GOLEUAD .
+793,newspaper_id,13905401,CID_001400,Goleuad,Y GOLEUAD .
+794,newspaper_id,13905401,CID_001400,Goleuad,Y GOLEUAD .
+795,newspaper_id,13905401,CID_001400,Goleuad,YOGOLEUAD .
+796,manual,13898005,MPD_1885_935,"Hull Packet and East Riding Times, The",HULL PACKET .
+797,manual,13899719,MPD_1885_1149,"Newcastle Weekly Courant, The",NEWCASTLE WEEKLY COURANT AND NORTH OF ENGLAND FARMER .
+798,newspaper_id,13899719,CID_000743,"Newcastle Weekly Courant, The",NEWCASTLE WEEKLY COURANT AND NORTH OF ENGLAND FARMER .
+799,newspaper_id,13899719,CID_000743,"Newcastle Weekly Courant, The",NEWCASTLE WEEKLY COURANT AND NORTH OF ENGLAND FARMER .
+800,newspaper_id,13899719,CID_000743,"Newcastle Weekly Courant, The", NEWCASTLE WEEKLY COURANT AND NORTH OF ENGILAND FARMER .
+801,newspaper_id,13899719,CID_000743,"Newcastle Weekly Courant, The",NEWCASTLE WEEKLY COURANT AND NORTH OF ENGLAND FARMER .
+802,newspaper_id,13899719,CID_000743,"Newcastle Weekly Courant, The",NEWCASTLE WEEKLY COURANT AND NORTH OF — ENGLAND FARMER .
+803,newspaper_id,13899719,CID_000743,"Newcastle Weekly Courant, The",NEWCASTLE WEEKLY COURANT AND NORTH OF ENGLAND FARMER .
+804,manual,13890612,MPD_1885_1634,Western Mail,WESTERN MAIL .
+805,newspaper_id,13890612,CID_001943,Western Mail,WESTERN MAIL . 
+806,newspaper_id,13890612,CID_001943,Western Mail,WESTERN MAIL .
+807,newspaper_id,13890612,CID_001943,Western Mail,WESTERN MAIL .
+808,newspaper_id,13890612,CID_001943,Western Mail,WESTERN MAIL .
+809,newspaper_id,13890612,CID_001943,Western Mail,WESTERN MAIL .
+810,newspaper_id,13890612,CID_001943,Western Mail,WESTERN MAIL .
+811,manual,13918648,MPD_1868_276,"Bath Chronicle, The",BATH CHRONICLE .
+812,newspaper_id,13918648,CID_000531,"Bath Chronicle, The",BATH CHRONICLE .
+813,newspaper_id,13918648,CID_000531,"Bath Chronicle, The",BATH CHRONICLE .
+814,newspaper_id,13918648,CID_000531,"Bath Chronicle, The",BATH CHRONICLE .
+815,newspaper_id,13918648,CID_000531,"Bath Chronicle, The",BATH EVENING CHRONICLE .
+816,newspaper_id,13918648,CID_000531,"Bath Chronicle, The",BATH EVENING CHRONICLE .
+817,newspaper_id,13918648,CID_000531,"Bath Chronicle, The",BATH EVENING CHRONICLE .
+818,newspaper_id,13918648,CID_000531,"Bath Chronicle, The",BATH DAILY CHRONICLE .
+819,newspaper_id,13918648,CID_000531,"Bath Chronicle, The",BATH DAILY CHRONICLE .
+820,newspaper_id,13918648,CID_000531,"Bath Chronicle, The",BATH DAILY CHRONICLE .
+821,newspaper_id,13918648,CID_000531,"Bath Chronicle, The",BATH DAILY CHRONICLE .
+822,newspaper_id,13918648,CID_000531,"Bath Chronicle, The",BATH DAILY CHRONICLE .
+823,newspaper_id,13918648,CID_000531,"Bath Chronicle, The",BATH DAILY CHRONICLE .
+824,newspaper_id,13918648,CID_000531,"Bath Chronicle, The",BATH DAILY CHRONICLE .
