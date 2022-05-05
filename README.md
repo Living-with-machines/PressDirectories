@@ -98,11 +98,11 @@ This table provides an overview of all titles in the JISC collection with links 
 
 ### Python Notebooks
 
-**1_Sources_and_Data.ipynb**: Code for reproducing results and figures for the introduction
+**[1_Sources_and_Data.ipynb](https://github.com/Living-with-machines/PressDirectories/blob/main/code/1_Sources_and_Data.ipynb)**: Code for reproducing results and figures for the introduction
 
-**2_Analysis.ipynb**: Code for reproducing results and figures for the Analysis section (up to the "Beyond Labels" heading.
+**[2_Analysis.ipynb](https://github.com/Living-with-machines/PressDirectories/blob/main/code/2_Analysis.ipynb)**: Code for reproducing results and figures for the Analysis section (up to the "Beyond Labels" heading.
 
-**Appendix_JISC_Links.ipynb**: Code for producing the Linked Title List.
+**[Appendix_JISC_Links.ipynb](https://github.com/Living-with-machines/PressDirectories/blob/main/code/Appendix_JISC_Links.ipynb)**: Code for producing the Linked Title List.
 
 ### R Notebooks
 
