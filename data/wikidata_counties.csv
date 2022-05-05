@@ -1,0 +1,89 @@
+,name,wiki,wikidata_id,english_label,latitude,longitude
+0,buckinghamshire,Q67285329,Q67285329,Buckinghamshire,51.828022,-0.790426
+1,oxfordshire,Q67311417,Q67311417,Oxfordshire,51.808471,-1.287156
+2,devonshire,Q67393660,Q67393660,Devon,50.752867,-3.817742
+3,somersetshire,Q67461071,Q67461071,Somerset,51.149935,-2.878137
+4,bedfordshire,Q67387552,Q67387552,Bedfordshire,52.07958,-0.448204
+5,northumberland,Q67535553,Q67535553,Northumberland,55.23077,-2.050602
+6,warwickshire,Q67575123,Q67575123,Warwickshire,52.333501,-1.586008
+7,lancashire,Q67311452,Q67311452,Lancashire,53.777825,-2.659904
+8,lincolnshire,Q67533486,Q67533486,Lincolnshire,53.185351,-0.288562
+9,yorkshire,Q163,Q163,Yorkshire,53.958333,-1.083333
+10,sussex,Q23346,Q23346,Sussex,50.947103,-0.141373
+11,gloucestershire,Q67508687,Q67508687,Gloucestershire,51.784621,-2.181118
+12,suffolk,Q67574715,Q67574715,Suffolk,52.224337,1.070014
+13,derbyshire,Q67393503,Q67393503,Derbyshire,53.134392,-1.602803
+14,cambridgeshire,Q30612390,Q30612390,Cambridgeshire,52.339249,0.132202
+15,kent,Q67479626,Q67479626,Kent,51.248909,0.674514
+16,cumberland,Q23360,Q23360,Cumberland,54.75,-3.0
+17,essex,Q67442940,Q67442940,Essex,51.777289,0.528394
+18,cheshire,Q67287495,Q67287495,Cheshire,53.232974,-2.507391
+19,wiltshire,Q67575300,Q67575300,Wiltshire,51.314611,-1.929806
+20,dorsetshire,Q67479793,Q67479793,Dorset,50.803395,-2.334583
+21,durham,Q23082,Q23082,County Durham,54.666667,-1.833333
+22,cornwall,Q23148,Q23148,Cornwall,50.3,-4.9
+23,surrey,Q67443130,Q67443130,Surrey,51.269459,-0.373298
+24,staffordshire,Q67574558,Q67574558,Staffordshire,52.824171,-2.043612
+25,pembrokeshire,Q85631787,Q85631787,Pembrokeshire,51.833333,-4.95
+26,hertfordshire,Q67532100,Q67532100,Hertfordshire,51.829446,-0.218293
+27,hampshire,Q67531563,Q67531563,Hampshire,51.020078,-1.293087
+28,worcestershire,Q67575442,Q67575442,Worcestershire,52.239359,-2.163397
+29,leicestershire,Q67533246,Q67533246,Leicestershire,52.66741,-1.118607
+30,norfolk,Q67535211,Q67535211,Norfolk,52.672718,0.94867
+31,monmouthshire,Q1245075,Q1245075,Monmouthshire,51.6667,-3.0
+32,northamptonshire,Q67311402,Q67311402,Northamptonshire,52.333222,-0.820238
+33,nottinghamshire,Q67535681,Q67535681,Nottinghamshire,53.130169,-1.011919
+34,berkshire,Q67284726,Q67284726,Berkshire,51.513832,-1.208811
+35,shropshire,Q67574371,Q67574371,Shropshire,52.642392,-2.714801
+36,carnarvonshire,Q731669,Q731669,Caernarfonshire,53.0824,-4.16
+37,brecknockshire,Q547052,Q547052,Brecknockshire,52.0,-3.41667
+38,carmarthenshire,Q67287054,Q67287054,Carmarthenshire,51.901799,-4.165544
+39,glamorganshire,Q870815,Q870815,Glamorgan,51.666667,-3.666667
+40,flintshire,Q684016,Q684016,Flintshire,53.25,-3.16667
+41,aberdeenshire,Q3290674,Q3290674,Aberdeenshire,57.1667,-2.66667
+42,forfarshire,Q67387310,Q67387310,Angus,56.666667,-2.866667
+43,ayrshire,Q793283,Q793283,Ayrshire,55.461053,-4.635836
+44,banffshire,Q806432,Q806432,Banffshire,57.5,-3.083333
+45,fifeshire,Q67479974,Q67479974,Fife,56.183333,-3.1
+46,ross-shire,Q978599,Q978599,Ross-shire,57.8,-5.0
+47,dumfriesshire,Q1247384,Q1247384,Dumfriesshire,55.068929,-3.608307
+48,edinburghshire,Q67317221,Q67317221,Midlothian,55.9,-3.183333
+49,elgin,Q1247435,Q1247435,Morayshire,57.648423,-3.314408
+50,selkirkshire,Q1247396,Q1247396,Selkirkshire,55.5,-3.0
+51,lanarkshire,Q530296,Q530296,Lanarkshire,55.583333,-3.833333
+52,greenock,Q67545499,Q67545499,Renfrewshire,55.85,-4.516667
+53,inverness-shire,Q1247390,Q1247390,Inverness-shire,57.083333,-4.666667
+54,roxburghshire,Q664892,Q664892,Roxburghshire,55.568879,-2.478294
+55,nainshire,Q1247441,Q1247441,Nairnshire,57.586093,-3.866097
+56,renfrewshire,Q67545499,Q67545499,Renfrewshire,55.85,-4.516667
+57,perthshire,Q67442430,Q67442430,Perthshire,56.483333,-3.883333
+58,stirlingshire,Q1229763,Q1229763,Stirlingshire,56.118653,-3.938151
+59,wigtownshire,Q550606,Q550606,Wigtownshire,54.833333,-4.75
+60,caithness-shire,Q864668,Q864668,Caithness,58.416667,-3.5
+61,westmorland,Q23326,Q23326,Westmorland,54.5,-2.583333
+62,merionethshire,Q577711,Q577711,Merionethshire,52.8333,-3.83333
+63,morayshire,Q1247435,Q1247435,Morayshire,57.648423,-3.314408
+64,clackmannanshire,Q67393019,Q67393019,Clackmannanshire,56.133333,-3.766667
+65,argyllshire,Q652539,Q652539,Argyll,56.25,-5.25
+66,kincardineshire,Q376914,Q376914,Kincardineshire,56.916667,-2.5
+67,london,Q84,Q84,London,51.507222,-0.1275
+68,middlesex,Q19186,Q19186,Middlesex,51.5,-0.416667
+69,cardiganshire,Q645155,Q645155,Cardiganshire,52.255942,-4.070579
+70,denbighshire,Q5256625,Q5256625,Denbighshire,53.125,-3.406
+71,dumbartonshire,Q17582129,Q17582129,Dunbartonshire,55.983333,-4.65
+72,kinross-shire,Q784746,Q784746,Kinross-shire,56.25,-3.416667
+73,peeblesshire,Q1247417,Q1247417,Peeblesshire,55.653242,-3.191871
+74,isle of bute,Q1147435,Q1147435,Isle of Bute,55.83569,-5.05636
+75,huntingdonshire,Q67266168,Q67266168,Huntingdonshire,52.381344,-0.220545
+76,haddingtonshire,Q66224885,Q66224885,East Lothian,55.955557,-2.784076
+77,orkney,Q100166,Q100166,Orkney Islands,59.0,-3.0
+78,kirkcudbrightshire,Q17582096,Q17582096,Kirkcudbrightshire,54.837131,-4.049481
+79,montgomeryshire,Q38825,Q38825,Montgomeryshire,52.5833,-3.5
+80,radnorshire,Q1244778,Q1244778,Radnorshire,52.25,-3.25
+81,linlithgowshire,Q67317108,Q67317108,West Lothian,55.933333,-3.583333
+82,rutland,Q85631961,Q85631961,Rutland,52.660733,-0.654747
+83,salop,Q67574371,Q67574371,Shropshire,52.642392,-2.714801
+84,isle of wight,Q9679,Q9679,Isle of Wight,50.666667,-1.266667
+85,berwickshire,Q786649,Q786649,Berwickshire,55.75,-2.5
+86,shetland isles,Q47134,Q47134,Shetland Islands,60.3038,-1.2689
+87,isle of anglesey,Q168159,Q168159,Anglesey,53.293975,-4.376728
