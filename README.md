@@ -79,11 +79,11 @@ Lastly, to improve the quality of the data, we performed a light-touch manual co
 
 ### <ins>JISC Title List</ins>
 
-This spreadsheet provides an overview of all titles in the JISC collection. 
+[This spreadsheet](https://github.com/Living-with-machines/PressDirectories/blob/main/data/JISC_TitleList.xlsx) provides an overview of all titles in the JISC collection. 
 
 ### <ins>Linked Title List</ins>
 
-This table provides an overview of all titles in the JISC collection with links to the entry in the Newspaper Press Directories. 
+[This table](https://github.com/Living-with-machines/PressDirectories/blob/main/data/jisc_links.csv) provides an overview of all titles in the JISC collection with links to the entry in the Newspaper Press Directories. 
 
 **LINKING_METHOD**: indicates how the titles were linked. 'manual': link established via manual annotation. 'newspaper_id' link established via the newspaper id of 'manual' link.
 
