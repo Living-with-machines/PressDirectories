@@ -1,10 +1,8 @@
 # Addressing Bias and Representativeness in Digital Heritage Collections
 
-Thsi repository contains data and code for the paper:
 
-Kaspar Beelen, Jon Lawrence, Daniel C.S. Wilson, David Beavan, "Addressing bias and representativeness in digital heritage collections", _Digital Scholarship in the Humanities_, (forthcoming)
 
-# Overview
+## Overview
 
 - [Introduction](#introduction)
 - [Data](#data)
@@ -14,8 +12,14 @@ Kaspar Beelen, Jon Lawrence, Daniel C.S. Wilson, David Beavan, "Addressing bias 
     - [JISC](#jisc)
         - [Datasets](#datasets) 
 - [Code](#code)
+    - [Python Notebooks](#python-notebooks)
+    - [R Notebooks](#r-notebooks) 
 
 ## Introduction
+
+This repository contains data and code for the paper:
+
+Kaspar Beelen, Jon Lawrence, Daniel C.S. Wilson, David Beavan, "Addressing bias and representativeness in digital heritage collections", _Digital Scholarship in the Humanities_, (forthcoming)
 
 ## Data
 
@@ -73,6 +77,28 @@ Lastly, to improve the quality of the data, we performed a light-touch manual co
 
 ### Datasets
 
+#### JISC Title List
+
+This spreadsheet provides an overview of all titles in the JISC collection. 
+
+#### Linked Title List
+
+This table provides an overview of all titles in the JISC collection with links to the entry in the Newspaper Press Directories. 
+
+**LINKING_METHOD**: indicates how the titles were linked. 'manual' 
+
+**BL_SYSTEM_ID**: The System ID associated with the newspaper. 
+
+**NPD_ID**: The id of the newspaper in the digitized version of Mitchells Newspaper Press Directories.
+
+**JISC_TITLE**: The title of the newspaper as recorded in the JISC Title List.
+
+**MITCHELL_TITLE**: The title of the newspaper as recorded in the press directories.
+
 ## Code
+
+### Python Notebooks
+
+### R Notebook
 
 
