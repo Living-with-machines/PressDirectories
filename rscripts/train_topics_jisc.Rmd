@@ -1,0 +1,48 @@
+---
+title: Train Topics JISC
+output: html_notebook
+---
+
+```{r}
+library('stm')
+library('tm')
+library('readr')
+
+data <- read_delim("stm_data/directories_1846_1920_stm_export.csv", ",", escape_double = TRUE, trim_ws = TRUE, skip = 0)
+
+print(dim(data))
+````
+
+
+```{r}
+processed <- textProcessor(data$extract_description,metadata=data,stem=TRUE,wordLengths=c(3,Inf))
+```
+
+
+```{r}
+out <- prepDocuments(processed$documents,
+                     processed$vocab, 
+                     processed$meta,
+                     lower.thresh=10, 
+                     upper.thresh = as.integer(length(data$extract_description)*0.8)
+                     )
+```
+
+```{r}
+# uncomment if you want to inspect your own model and corpus
+#saveRDS(out,"stm_models/stmCorpus_jisc_stemmed.RDS")
+```
+
+```{r}
+stmModel <- stm(out$documents, out$vocab, K=10,
+                                prevalence = ~ JISC*year,
+                                max.em.its=200,data=out$meta,
+                                init.type="LDA",
+                                seed=19841027
+                                )
+```
+
+```{r}
+# uncomment if you want to inspect your own model and corpus
+#saveRDS(stmModel,stm_models/stmModel10T_jisc_year.RDS")
+```
