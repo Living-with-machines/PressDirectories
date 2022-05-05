@@ -23,7 +23,7 @@ Kaspar Beelen, Jon Lawrence, Daniel C.S. Wilson, David Beavan, "Addressing bias 
 
 # Data
 
-## <ins>Press Directories</ins>
+## Press Directories
 
 This repository contains a structured conversion of Mitchell's Newspaper Press Directories between 1846 and 1920. The code that transforms original scans to a tabular format is provided here as well and is documented in a series of Jupyter Notebooks that explain the different steps involved. 
 
@@ -33,7 +33,7 @@ The image below, shown a fragment for the `Greenwich Free Press` taking from the
 
 <img src="img/example.png" alt="Example of the Greenwich Free Press" width="400" >
 
-### Processing
+### <ins>Processing</ins>
 
 Mitchell’s Press Directories were scanned by the British Library imaging studio in 2019 and further processed and enriched by the Living with Machines project.
 
@@ -43,7 +43,7 @@ The OCR was then further processed in two stages: page splitting and semantic an
 
 Lastly, to improve the quality of the data, we performed a light-touch manual correction of the data for a selected number years, this to spot-check for serious errors (which fortunately didn’t appear) and correct titles and places of publication that proved difficult for the OCR engine to process. While not flawless we are confident that the data generated from the scans is reliable enough for the purposes of the environmental scan.
 
-### Description
+### <ins>Description</ins>
 
 **id**: unique identifier of the record, in the shape of MPD_{YEAR}_{POSITION}, i.e. `MPD_1846_3` is the third newspaper encountered in the 1846 edition
 
@@ -77,11 +77,11 @@ Lastly, to improve the quality of the data, we performed a light-touch manual co
 
 ## Datasets
 
-### JISC Title List
+### <ins>JISC Title List</ins>
 
 This spreadsheet provides an overview of all titles in the JISC collection. 
 
-### Linked Title List
+### <ins>Linked Title List</ins>
 
 This table provides an overview of all titles in the JISC collection with links to the entry in the Newspaper Press Directories. 
 
