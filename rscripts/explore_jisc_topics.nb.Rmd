@@ -1,0 +1,126 @@
+---
+title: "Analysis : Bias in Digitized Newspapers"
+output: html
+---
+
+```{r}
+library('stm')
+library('tm')
+library('readr')
+```
+
+```{r}
+out <- readRDS("stm_models/stmCorpus_pol_stemmed.RDS")
+model <- readRDS("stm_models/stmModel10T_pol_int_year.RDS")
+```
+
+Figure 12 left
+
+```{r}
+plot(model, type = "summary", n=5,xlim = c(0, .7),labeltype='prob')
+```
+
+Figure 12 right
+
+```{r}
+cloud(model, topic = 3, scale = c(3, .5), max.words = 25)
+```
+
+```{r}
+labelTopics(model, c(3))
+```
+
+Figure 13
+
+```{r}
+topics = seq(1,10,1)
+
+prep <- estimateEffect(topics ~ JISC, 
+                       model, metadata = out$meta, uncertainty = "None")
+
+par(mfrow=c(1,1))
+par(mar=c(5,7,4,2))
+plot.estimateEffect(prep, covariate = "JISC", 
+                    topics=topics, n=3, 
+                    verbose.labels = F,  
+                    model = model, method = "difference",
+                    labeltype = "prob", 
+                    xlab = "in JISC ... not in JISC",
+                    cov.value1='0',cov.value2 = '1')
+
+```
+
+Figure 14 left
+
+```{r}
+cloud(model, topic = 6, scale = c(3, .5), max.words = 25)
+```
+
+
+Figure 14 right
+
+```{r}
+cloud(model, topic = 10, scale = c(3, .5), max.words = 25)
+```
+
+Figure 15 left
+
+```{r}
+cloud(model, topic = 7, scale = c(3, .5), max.words = 25)
+```
+
+Figure 15 right
+
+```{r}
+cloud(model, topic = 9, scale = c(3, .5), max.words = 25)
+```
+
+Appendix D
+
+```{r}
+topics = seq(1,10,1)
+
+prep <- estimateEffect(topics ~ politics, 
+                       model, metadata = out$meta, uncertainty = "None")
+
+par(mfrow=c(1,1))
+par(mar=c(5,7,4,2))
+plot.estimateEffect(prep, covariate = "politics", 
+                    topics=topics, n=3, 
+                    verbose.labels = F,  
+                    model = model, method = "difference",
+                    labeltype = "prob", 
+                    xlab = "more liberal ... more conservative",
+                    cov.value1='conservative',cov.value2 = 'liberal')
+
+```
+
+Appendix F
+
+```{r}
+model_20 <- readRDS("stm_models/stmModel20T_pol_int_year.RDS")
+plot(model_20, type = "summary", n=5,xlim = c(0, .7),labeltype='prob')
+```
+
+```{r}
+topics = seq(1,20,1)
+
+prep <- estimateEffect(topics ~ JISC, 
+                       model_20, metadata = out$meta, uncertainty = "None")
+
+par(mfrow=c(1,1))
+par(mar=c(5,7,4,2))
+plot.estimateEffect(prep, covariate = "JISC", 
+                    topics=topics, n=3, 
+                    verbose.labels = F,  
+                    model = model_20, method = "difference",
+                    labeltype = "prob", 
+                    xlab = "in JISC ... not in JISC",
+                    cov.value1='0',cov.value2 = '1')
+```
+
+Appendix G
+
+```{r}
+cloud(model, topic = 4, scale = c(3, .5), max.words = 25)
+```
