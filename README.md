@@ -1,6 +1,6 @@
 # Addressing Bias and Representativeness in Digital Heritage Collections
 
-
+<img src="img/heading.png" alt="Example of the Greenwich Free Press">
 
 # Overview
 
