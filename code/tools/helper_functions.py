@@ -40,7 +40,7 @@ def complete_records(df: pd.DataFrame, target_col:str) -> pd.DataFrame:
     return df
 
 
-def plot_comparison_selected_categories(selected,df,target_col,figures_path=Path('figures')):
+def plot_comparison_selected_categories(selected,df,target_col,path):
     
     fig, ax = plt.subplots(figsize=(8,6))
     maximums = []
@@ -64,7 +64,9 @@ def plot_comparison_selected_categories(selected,df,target_col,figures_path=Path
     ax.set_ylim(
             [0, np.max(maximums)+0.05]
         )
-    plt.savefig(figures_path/f'{selected[0][0]}_{selected[1][0]}_comparison.png',bbox_inches='tight')
+    #plt.savefig(figures_path/f'{selected[0][0]}_{selected[1][0]}_comparison.png',bbox_inches='tight')
+    
+    plt.savefig(path,bbox_inches='tight')
     plt.show()
     
 
