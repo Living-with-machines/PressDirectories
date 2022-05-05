@@ -2,7 +2,7 @@
 
 
 
-## Overview
+# Overview
 
 - [Introduction](#introduction)
 - [Data](#data)
@@ -15,15 +15,15 @@
     - [Python Notebooks](#python-notebooks)
     - [R Notebooks](#r-notebooks) 
 
-## Introduction
+# Introduction
 
 This repository contains data and code for the paper:
 
 Kaspar Beelen, Jon Lawrence, Daniel C.S. Wilson, David Beavan, "Addressing bias and representativeness in digital heritage collections", _Digital Scholarship in the Humanities_, (forthcoming)
 
-## Data
+# Data
 
-### Press Directories
+## Press Directories
 
 This repository contains a structured conversion of Mitchell's Newspaper Press Directories between 1846 and 1920. The code that transforms original scans to a tabular format is provided here as well and is documented in a series of Jupyter Notebooks that explain the different steps involved. 
 
@@ -33,7 +33,7 @@ The image below, shown a fragment for the `Greenwich Free Press` taking from the
 
 <img src="img/example.png" alt="Example of the Greenwich Free Press" width="400" >
 
-#### Processing
+### Processing
 
 Mitchell’s Press Directories were scanned by the British Library imaging studio in 2019 and further processed and enriched by the Living with Machines project.
 
@@ -43,7 +43,7 @@ The OCR was then further processed in two stages: page splitting and semantic an
 
 Lastly, to improve the quality of the data, we performed a light-touch manual correction of the data for a selected number years, this to spot-check for serious errors (which fortunately didn’t appear) and correct titles and places of publication that proved difficult for the OCR engine to process. While not flawless we are confident that the data generated from the scans is reliable enough for the purposes of the environmental scan.
 
-#### Description
+### Description
 
 **id**: unique identifier of the record, in the shape of MPD_{YEAR}_{POSITION}, i.e. `MPD_1846_3` is the third newspaper encountered in the 1846 edition
 
@@ -74,13 +74,13 @@ Lastly, to improve the quality of the data, we performed a light-touch manual co
 **NEWSPAPER_ID**: This is an unique identifier used to link newspaper over time. 
 
 
-### Datasets
+## Datasets
 
-#### JISC Title List
+### JISC Title List
 
 This spreadsheet provides an overview of all titles in the JISC collection. 
 
-#### Linked Title List
+### Linked Title List
 
 This table provides an overview of all titles in the JISC collection with links to the entry in the Newspaper Press Directories. 
 
@@ -94,9 +94,9 @@ This table provides an overview of all titles in the JISC collection with links 
 
 **MITCHELL_TITLE**: The title of the newspaper as recorded in the press directories.
 
-## Code
+# Code
 
-### Python Notebooks
+## Python Notebooks
 
 **[1_Sources_and_Data.ipynb](https://github.com/Living-with-machines/PressDirectories/blob/main/code/1_Sources_and_Data.ipynb)**: Code for reproducing results and figures for the introduction
 
@@ -104,7 +104,7 @@ This table provides an overview of all titles in the JISC collection with links 
 
 **[Appendix_JISC_Links.ipynb](https://github.com/Living-with-machines/PressDirectories/blob/main/code/Appendix_JISC_Links.ipynb)**: Code for producing the Linked Title List.
 
-### R Notebooks
+## R Notebooks
 
 
 **[train_topics_jisc.Rmd](https://github.com/Living-with-machines/PressDirectories/blob/main/rscripts/train_topics_jisc.Rmd)**: Code for training a Structural Topic Model on descriptions derived from the press directoriess.
