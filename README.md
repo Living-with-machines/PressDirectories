@@ -63,7 +63,7 @@ Lastly, to improve the quality of the data, we performed a light-touch manual co
 
 **PUBLICATION_DAY**: The day of publication, often refers to a day in the week (e.g. `Thursday`), or specified in periodic terms such (`daily` or `weekly`). The `Greenwich Free Press` is published on `Saturday`.
 
-**CIRCULATION**: Places where the newspaper was presumed to circulate, often gives a wider range than of places compared to `DISTICT_PUB`. Places are joined by a `<SEP>` token. In the running example this is: `Greenwich<SEP>Kent`
+**LOCATIONS**: Locations mentioned in the description, includes places where the newspaper was presumed to circulate, often gives a wider range than of places compared to `DISTICT_PUB`. Places are joined by a `<SEP>` token. In the running example this is: `Greenwich<SEP>Kent`
 
 **TEXT_ORIGINAL**: The full text description for one newspaper. The other items mentioned here (such as price and politics) are extracted from this column. 
 
@@ -73,7 +73,6 @@ Lastly, to improve the quality of the data, we performed a light-touch manual co
 
 **NEWSPAPER_ID**: This is an unique identifier used to link newspaper over time. 
 
-## JISC
 
 ### Datasets
 
@@ -111,6 +110,3 @@ This table provides an overview of all titles in the JISC collection with links 
 **train_topics_jisc.Rmd**: Code for training a Structural Topic Model on descriptions derived from the press directoriess.
 
 **explore_jisc_topics.nb.Rmd**: Code for inspecting the Structural Topic Model and reproducing the figures in the section "Beyond Labels: Topics in Contemporaneous Descriptions"
-
-
-
