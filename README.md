@@ -107,6 +107,7 @@ Lastly, to improve the quality of the data, we performed a light-touch manual co
 
 ## R Notebooks
 
+Running these notebooks requires installation of the [Structural Topic Model](https://www.structuraltopicmodel.com/) library.
 
 **[train_topics_jisc.Rmd](https://github.com/Living-with-machines/PressDirectories/blob/main/rscripts/train_topics_jisc.Rmd)**: Code for training a Structural Topic Model on descriptions derived from the press directoriess.
 
