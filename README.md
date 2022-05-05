@@ -13,7 +13,7 @@
         - [Datasets](#datasets) 
 - [Code](#code)
     - [Python Notebooks](#python-notebooks)
-    - [R Notebooks](#r-notebooks) 
+    - [R Notebook](#r-notebook) 
 
 ## Introduction
 
