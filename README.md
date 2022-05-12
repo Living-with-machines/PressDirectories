@@ -1,4 +1,5 @@
-# Addressing Bias and Representativeness in Digital Heritage Collections
+# Bias and Representativeness in Digitised Newspaper Collections
+## Introducing the Environmental Scan.
 
 <img src="img/heading.png" alt="Example of the Greenwich Free Press">
 
@@ -19,7 +20,7 @@
 
 This repository contains data and code for the paper:
 
-Kaspar Beelen, Jon Lawrence, Daniel C.S. Wilson, David Beavan, "Addressing bias and representativeness in digital heritage collections", _Digital Scholarship in the Humanities_, (forthcoming)
+Kaspar Beelen, Jon Lawrence, Daniel C.S. Wilson, David Beavan, "Bias and Representativeness in Digitised Newspaper Collections: Introducing the Environmental Scan", _Digital Scholarship in the Humanities_, (forthcoming)
 
 # Data
 
