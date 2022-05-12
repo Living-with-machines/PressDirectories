@@ -25,7 +25,7 @@ Kaspar Beelen, Jon Lawrence, Daniel C.S. Wilson, David Beavan, "Addressing bias 
 
 ## Press Directories
 
-This repository contains a structured conversion of Mitchell's Newspaper Press Directories between 1846 and 1920. You can download a zipped version [here](https://github.com/Living-with-machines/PressDirectories/blob/main/data/Press_Directories_1846_1920_JISC_final.csv.zip)
+This repository contains a structured conversion of Mitchell's Newspaper Press Directories between 1846 and 1920. You can download a zipped version [here](https://github.com/Living-with-machines/PressDirectories/blob/main/data/Press_Directories_1846_1920_JISC_final.csv.zip). The original images and XML are available on the British Library repository.
 
 The press directories appeared almost yearly after 1846 and listed newspapers circulating in the United Kingdom, often giving detailled description of their audiences. 
 
