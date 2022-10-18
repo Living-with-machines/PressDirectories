@@ -20,7 +20,7 @@
 
 This repository contains data and code for the paper:
 
-Kaspar Beelen, Jon Lawrence, Daniel C.S. Wilson, David Beavan, "Bias and Representativeness in Digitised Newspaper Collections: Introducing the Environmental Scan", _Digital Scholarship in the Humanities_, July 2022 (https://doi.org/10.1093/llc/fqac037).
+#### Kaspar Beelen, Jon Lawrence, Daniel C.S. Wilson, David Beavan, "Bias and Representativeness in Digitised Newspaper Collections: Introducing the Environmental Scan", _Digital Scholarship in the Humanities_, July 2022 (https://doi.org/10.1093/llc/fqac037).
 
 # Data
 
