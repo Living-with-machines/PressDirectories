@@ -30,7 +30,7 @@ This repository contains a structured conversion of Mitchell's Newspaper Press D
 
 **You can download the structured version of the Mitchell's Newspaper Press Directories [here](https://github.com/Living-with-machines/PressDirectories/blob/main/data/Press_Directories_1846_1920_JISC_final.csv.zip) (in .zip format).**
 
-The original images and XML are available on the British Library repository ([1846-1881](https://bl.iro.bl.uk/concern/datasets/020c22c4-d1ee-4fca-bf75-0420fe59347a) and [1882-1920](https://bl.iro.bl.uk/concern/datasets/e943d0e1-59dd-48b5-9a0b-dc7723b30749)).
+The original images and XML are available on the British Library repository ([1846-1881](https://doi.org/10.23636/53p3-3a70) and [1882-1920](https://doi.org/10.23636/578s-8y85)).
 
 The press directories appeared almost yearly after 1846 and listed newspapers circulating in the United Kingdom, often giving a detailed description of their audiences. 
 
